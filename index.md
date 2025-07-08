@@ -28,7 +28,10 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 
 ## Pensum  
-Kommer
+Kurset har ikke pensum som blir eksaminert.
+
+### Støttelitteratur
+-  [Sharma, D. 2024. The Illustrated Guide to Social Science Research, Routhledge, ISBN 9781032323770](https://www.routledge.com/The-Illustrated-Guide-to-Social-Science-Research/Sharma/p/book/9781032323770?srsltid=AfmBOopglkuIIRTTptS7_gsDCC0leSECfMPJY5PulIK937HYWnuN2PUh)
 
 
 ## Kunngjøringer  
