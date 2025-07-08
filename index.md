@@ -1,32 +1,23 @@
 {% include navbar.html %}  {% include top-box.html %}
 
+## Velkommen til kurset SOK-3024: Forskningsmetode og formiddling!
 
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
-
-
+Kurset SOK-3024 har som mål å gi deg kunnskap, ferdigheter og kompetanse innenfor temaet ...
 ## Kursplan  
 
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
+- [Forelesnings- og seminarplan](forelesningsplan.html){:target="blank"}
+- [Forelesningsnotater og seminaroppgaver](forelesninger.html){:target="blank"}
+- [Innleveringsplan og innleveringsoppgaver](mappeinnleveringer.html){:target="blank"}
+- [Timeplan]([https://timeplan.uit.no/](https://tp.educloud.no/uit/app/schedule?semester=25h&scheduleType=course&filterOpen=true&summary=true&tab=calendar&course=SOK-2302%C2%A41)){:target="blank"}
 
-
-[Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
-
-
-## Kursbeskrivelse 
-
-
-Kurset består av ulike interessante tema  
 
 
 ## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
-
+- [Andrea Mannberg](https://uit.no/ansatte/andrea.mannberg){:target="blank"} (fagansvarlig)
+- [Eirik Eriksen Heen](https://uit.no/ansatte/eirik.e.heen){:target="blank"}
 
 
 ## Administrative spørsmål
@@ -35,12 +26,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 
 ## Pensum  
-
-### Pensum til forelesningene
-
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
-
-
+Kommer
 
 
 ## Kunngjøringer  
@@ -50,7 +36,9 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Kurset har mappeevaluering og arbeidskrav. Mappen består i én skriftlig innlevering av en prosjektskisse. Det er X arbeidskrav på kurset. Arbeidskravene er obligatoriske men gir ikke karakter. Mappen har karakterskala A - F. 
 
-Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
+### Mappeinnlevering: 
+
+Frister, oppgaver og ressurser finnes i [mappeinnleveringer](mappeinnleveringer.html){:target="blank"}.  
 
