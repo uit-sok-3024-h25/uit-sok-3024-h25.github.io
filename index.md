@@ -1,8 +1,10 @@
 {% include navbar.html %}  {% include top-box.html %}
 
-## Velkommen til kurset SOK-3024: Forskningsmetode og formiddling!
+## Velkommen til kurset SOK-3024: Forskningsmetode og formidling!
 
-Kurset SOK-3024 har som mål å gi deg kunnskap, ferdigheter og kompetanse innenfor temaet ...
+Kurset SOK-3024 har som mål å gi deg oversikt over alle komponenter som inngår i en samfunnsøkonomisk analyse fra planleggingsstadiet frem til formidling av sluttproduktet. Kurset deler forskningsprosessen inn i ulike komponenter og utforsker sammenhengene mellom dem. Et delmål med kurset er at du skal komme i gang med planleggingen av temaet for masteroppgaven.
+
+
 ## Kursplan  
 
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
@@ -34,7 +36,7 @@ Kommer
 Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:target="blank"}.
 
 
-## Innlevering og eksamen  
+## Innleveringer og eksamen  
 
 Kurset har mappeevaluering og arbeidskrav. Mappen består i én skriftlig innlevering av en prosjektskisse. Det er X arbeidskrav på kurset. Arbeidskravene er obligatoriske men gir ikke karakter. Mappen har karakterskala A - F. 
 
