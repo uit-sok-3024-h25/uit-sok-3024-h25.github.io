@@ -17,9 +17,31 @@
 
 ## Arbeidskravenes innhold
 ### Arbeidskrav 1
+Formålet med arbeidskrav 1 er at dere skal få en forståelse for hva som karakteriserer et "godt" forskningsspørsmål/hypotese. Arbeidskravet har en skriftlig og en muntlig del. 
+
+I den skriftlige delen av oppgaven skal dere:
+- Finne vitenskapelig artikkel på et tema dere synes er interessant. Artikkelen skal være inneholde samfunnsøkonomisk forskning og være publisert peer-reviewed i en vitenskapelig journal.
+- Identifisere forskningsspørsmål og eventuelle hypoteser i artikkelen
+- Identifisere hva forfatterne mener motiverer at forskning på spørsmålet
+-
+-     Dere trenger ikke lese og forstå hele artikkelen identifisere forskningsspørsmål og hypoteser i denne, og diskutere hva som karakteriserer et godt forskningsspørsmål/gode hypoteser på et seminar.
+
+**Innlevering:**
+- Forskningsspørsmål og eventuelle hypoteser fra en vitenskapelig artikkel innenfor samfunnsøkonomi, som er publisert peer-review. Artikkelen skal inneholde empirisk analyse.
+- Kort oppsummering av hvorfor det er motivert å forske på spørsmålet/hypotesen fra et samfunnsøkonomisk perspektiv.
+- Vedlegg: selve artikkelen
+
+**Deltakelse på seminar:**
+På seminaret vil vi diskutere hva som karakteriserer "gode" respektive "dårlige" forskningsspørsmål og hypoteser. For å få godkjent karakter på arbeidskravet må du delta aktivt på seminaret. 
+
 ### Arbeidskrav 2
 ### Arbeidskrav 3
 ### Arbeidskrav 4
+Oppgaven består i å presentere innholdet i prosjektskissen. 
+
+Presentasjonen skal være maks 15 minutter lang. 
+
+Presentasjonen skal skje muntlig ved bruk av lysbilder. Lysbildene skal leveres inn på Canvas før presentasjonen (se Frister for mappeinnleveringer). 
 
 #  Mappeoppgave
 - Mappeoppgaven er obligatorisk, og teller 100 prosent av karakter på kurset (skala: A - F)
@@ -62,17 +84,3 @@ Forfatterdeklarasjonen skal inneholde en beskrivelse av hvem som har gjort hva i
  
 
 
-### Innlevering
-* Oppgaven leveres inn i Canvas
-* Det er tilstrekkelig at én i gruppen leverer inn oppgaven
-* Alle oppgaver skal leveres med studentkode til enhver student i gruppen
-* Bruk filnavn: sok2302_studentkode1_studentkode2_studentkode3_filtype, der filtype beskriver type fil: oppgave, kode, AI-deklarasjon, forfatter-deklarasjon
-  
-## Mappeoppgave 2 - Muntlig presentasjon
-Oppgaven består i å presentere innholdet i den skriftlige mappeoppgaven. 
-
-Presentasjonen skal være maks 15 minutter lang. 
-
-For å få karakter på mappen må de samme personene som leverte inn mappeoppgave 1 delta aktivt i presentasjonen i mappeoppgave 2. 
-
-Presentasjonen skal skje muntlig ved bruk av lysbilder. Lysbildene skal leveres inn på Canvas før presentasjonen (se Frister for mappeinnleveringer). 
