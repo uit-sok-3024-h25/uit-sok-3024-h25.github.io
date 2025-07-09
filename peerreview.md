@@ -1,4 +1,15 @@
-Støtte til evaluering av vitenskapelig arbeid på Masternivå
+# Peer-review av vitenskapelig arbeid
+
+Peer-review av vitenskapelig arbeid har til vanlig to formål: 1) gi en tredjepart informasjon om kvaliteten til materialet (f.eks. en editor på en vitenskapelig tidskrift, en arbeidsgiver), og 2) gi forfatterne til arbeidet informasjon om hvordan de kan forbedre kvaliteten og lesbarheten av materialet. 
+
+Når en skriver en peer-review rapport er det viktig å prøve å formidle styrker og svakheter tydelig og konstruktivt, slik at både tredjepart og forfatterne forstår disse og kan agere på dem. 
+
+En peer-review har ofte tre deler:
+1. En oppsummering av inneholdet i materialet
+2. En overgripende evaluering av kvaliteten på arbeidet
+3. Detaljerte kommentarer på deler og aspekter i arbeidet som den som evaluerer mener burde utbedres
+
+Da tredjepart sannsynligvis ikke har lest hele materialet er det flott å starte med en oppsummering av dette
 
 Oppsummering av oppgaven:
 1.	Hvilke(t) spørsmål prøver oppgaven å besvare?
