@@ -43,7 +43,7 @@ Formålet med arbeidskrav 2 er at dere skal få trening i å kritisk evaluere vi
 I den skriftlige delen skal dere:
 - Velge ut to masteroppgaver, **én fra "[batch1](https://github.com/uit-sok-3024-h25/uit-sok-3024-h25.github.io/tree/main/mstheses/batch1)" og én fra "[batch2](https://github.com/uit-sok-3024-h25/uit-sok-3024-h25.github.io/tree/main/mstheses/batch2)"**. Vi anbefaler at dere velger oppgaver på lignende tema da dette gir dere mulighet å sammenligne oppgavene med hverandre. 
 - Lese de to masteroppgavene
-- Evaluere masteroppgavene etter den mal som dere finner her  (LEGG INN LENKE)
+- Evaluere masteroppgavene. Dere finner støtte til hvordan dere gjør dette [her](https://github.com/uit-sok-3024-h25/uit-sok-3024-h25.github.io/blob/main/peerreview.html)
 
 På seminaret vil vi diskutere styrker og svakheter i de to masteroppgavene. 
 
