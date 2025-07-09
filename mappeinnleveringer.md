@@ -19,23 +19,56 @@
 ### Arbeidskrav 1
 Formålet med arbeidskrav 1 er at dere skal få en forståelse for hva som karakteriserer et "godt" forskningsspørsmål/hypotese. Arbeidskravet har en skriftlig og en muntlig del. 
 
+**Arbeidskrav 1 skal gjennomføres individuelt**
+
 I den skriftlige delen av oppgaven skal dere:
 - Finne vitenskapelig artikkel på et tema dere synes er interessant. Artikkelen skal være inneholde samfunnsøkonomisk forskning og være publisert peer-reviewed i en vitenskapelig journal.
-- Identifisere forskningsspørsmål og eventuelle hypoteser i artikkelen
-- Identifisere hva forfatterne mener motiverer at forskning på spørsmålet
--
--     Dere trenger ikke lese og forstå hele artikkelen identifisere forskningsspørsmål og hypoteser i denne, og diskutere hva som karakteriserer et godt forskningsspørsmål/gode hypoteser på et seminar.
+- Identifisere og skrive ned forskningsspørsmål og eventuelle hypoteser i artikkelen
+- Identifisere og oppsummere motiveringen(e) som blir ført fram i artikkelen til hvorfor forskning på spørsmålet er viktig
+
+På seminaret vil vi diskutere hva som karakteriserer "gode" respektive "dårlige" forskningsspørsmål og hypoteser. 
 
 **Innlevering:**
-- Forskningsspørsmål og eventuelle hypoteser fra en vitenskapelig artikkel innenfor samfunnsøkonomi, som er publisert peer-review. Artikkelen skal inneholde empirisk analyse.
-- Kort oppsummering av hvorfor det er motivert å forske på spørsmålet/hypotesen fra et samfunnsøkonomisk perspektiv.
-- Vedlegg: selve artikkelen
+- Forskningsspørsmål og eventuelle hypoteser
+- Oppsummering av motivering til hvorfor forskning på forskningsspørsmålet er viktig
+- Selve artikkelen
 
-**Deltakelse på seminar:**
-På seminaret vil vi diskutere hva som karakteriserer "gode" respektive "dårlige" forskningsspørsmål og hypoteser. For å få godkjent karakter på arbeidskravet må du delta aktivt på seminaret. 
+For å få arbeidskravet godkjent må du levere inn alle deler i innleveringen og delta aktivt på seminaret. 
 
 ### Arbeidskrav 2
+Formålet med arbeidskrav 2 er at dere skal få trening i å kritisk evaluere vitenskapelig arbeid på masternivå,få forståelse for hva som karakteriserer en "god" masteroppgave, og få kompetanse i å evaluere deres eget arbeid. Arbeidskravet har en skriftlig og en muntlig del. 
+
+**Arbeidskrav 2 kan gjennomføres i grupper om 1 - 3 personer**
+
+I den skriftlige delen skal dere:
+- Lese de to masteroppgavene som dere finner (HER) og (HER)
+- Evaluere masteroppgavene etter den mal som dere finner her  (LEGG INN LENKE)
+
+På seminaret vil vi diskutere styrker og svakheter i de to masteroppgavene. 
+
+**Innlevering:**
+- Evaluering av de to masteroppgavene
+  
 ### Arbeidskrav 3
+Formålet med arbeidskrav 3 er at dere skal komme igang med prosjektskissen, og få feedback på deres arbeid før siste innlevering. Arbeidskravet har kun en skriftlig del. 
+
+**Arbeidskrav 3 kan gjennomføres i grupper om 1 - 2 personer**
+
+Første utkast av prosjektskissen har i stort det samme inneholdet som siste utkast. Formålet til å levere inn et første utkast er at dere får en sjanse å utbedre inneholdet til siste utkast.
+
+Prosjektskissen skal inneholde:
+- Introduksjon
+ - Overgripende forskningsspørsmål/tema for oppgaven
+ - Motivering til hvorfor forskning på temaet er viktig fra et samfunnsøkonomisk perspektiv.
+ - Gjennomgang av relevant forskning på temaet
+ - Spesifikt forskningsspørsmål
+ - Beskrivelse av hvordan masteroppgaven bidrar til kunnskap på temaet
+- Teoretisk rammeverk
+- Metode
+ - Datagrunnlag
+ - Økonometrisk metode  
+
+
 ### Arbeidskrav 4
 Oppgaven består i å presentere innholdet i prosjektskissen. 
 
