@@ -54,17 +54,13 @@ Dersom dere planlegger å skrive masteroppgave sammen er det naturlig at dere vi
 
 Forfatterdeklarasjonen skal inneholde en beskrivelse av hvem som har gjort hva i førarbeidet til oppgaven. Dersom du har gjort alt selv, skriver du ditt eget navn på alle punkter. 
 
-Eksempel på forfatterdeklarasjon:
+**Eksempel på forfatterdeklarasjon**:
 - Forfattere som vært innvolverte i arbeidet med prosjektskissen: AM og EH.
-- 
-- Forskningsspørsmål: EH formulerte idéen til forskningspørsmålet. Det slutlige forskningsspørsmålet ble bestemt i diskusjon mellom EH og AM.
-- Hypoteser: EH og AM deltok likt i formuleringen av hypotesene i prosjektskissen. 
-- Literaturgjennomgang:
-Teoretisk rammeverk:
-Empirisk analyse - koding:
-Empirisk analyse - tolkning av resultater:
+- Begge forfatterne har deltatt i alle deler av arbeidet med prosjektskissen. AM og EH bidrog likt til formulering av forskningsspørsmål, hypoteser, datakilder, og tolkning/diskusjon av resultater. Under beskreves deler som AM respektive EH hadde hovedansvar for i arbeidet.
+- AM: Inititial forskningsidé, og teoretisk rammeverk.
+- EH: Økonometrisk metode, datahåndtering, og estimering.   
+ 
 
-* Beskrivelse av bidrag fra enhver gruppemedlem
 
 ### Innlevering
 * Oppgaven leveres inn i Canvas
