@@ -54,7 +54,7 @@ Formålet med arbeidskrav 3 er at dere skal komme igang med prosjektskissen, og 
 
 **Arbeidskrav 3 kan gjennomføres i grupper om 1 - 2 personer**
 
-Første utkast av prosjektskissen har i stort det samme inneholdet som siste utkast. Formålet til å levere inn et første utkast er at dere får en sjanse å utbedre inneholdet til siste utkast.
+Første utkast av prosjektskissen har i stort det samme inneholdet som siste utkast. Formålet til å levere inn et første utkast er at dere får en sjanse å utbedre inneholdet til siste utkast. **Vi anbefaler sterkt at dere starter å jobbe med arbeidskrav 3 i starten av semestret og jobber fortløpende med arbeidskravet gjennom semestret.** 
 
 Prosjektskissen skal inneholde:
 - Introduksjon
@@ -63,18 +63,25 @@ Prosjektskissen skal inneholde:
   - Gjennomgang av relevant forskning på temaet
   - Spesifikt forskningsspørsmål
   - Beskrivelse av hvordan masteroppgaven bidrar til kunnskap på temaet
-- Teoretisk rammeverk
+- Teoretisk rammeverk: beskrivelse av samfunnsøkonomisk teori som kan brukes for å forstå temaet i oppgaven.
 - Metode
-  - Datagrunnlag
-  - Økonometrisk metode  
+  - Datagrunnlag: datakilder og relevante variabler
+  - Økonometrisk metode: spesifikasjon av modell som skal analyseres og metode for å estimere modellen
+- Risikoanalyse: beskrivelse av utfordringer (f.eks. tilgang til data) og hvordan disse utfordringene skal håndteres.
 
 
 ### Arbeidskrav 4
-Oppgaven består i å presentere innholdet i prosjektskissen. 
+Formålet med arbeidskrav 4 er at dere skal få trening i å formidle vitenskapelig forskning, og få mulighet til å få feedback fra andre på deres prosjekt. Arbeidskravet har en skriftlig og en muntlig del. 
 
-Presentasjonen skal være maks 15 minutter lang. 
+**Arbeidskrav 4 gjennomføres i de samme gruppene som arbeidskrav 3 (1 - 2) personer**
 
-Presentasjonen skal skje muntlig ved bruk av lysbilder. Lysbildene skal leveres inn på Canvas før presentasjonen (se Frister for mappeinnleveringer). 
+I den skriftlige delen skal dere:
+- Lage lysbilder til en presentasjon av deres prosjektskisse.
+
+I den muntlige dele skal dere:
+- Presentere deres prosjektskisse ved bruk av de lysbilder som dere har levert inn i forkant av seminaret. 
+- Presentasjonen skal være maks 15 minutter lang. 
+
 
 #  Mappeoppgave
 - Mappeoppgaven er obligatorisk, og teller 100 prosent av karakter på kurset (skala: A - F)
@@ -92,6 +99,17 @@ For å få karakter på mappeoppgaven må alle dokumenter leveres inn.
 
 ### Oppgave-dokumentet sitt innhold
 
+- Introduksjon
+  - Overgripende forskningsspørsmål/tema for oppgaven
+  - Motivering til hvorfor forskning på temaet er viktig fra et samfunnsøkonomisk perspektiv.
+  - Gjennomgang av relevant forskning på temaet
+  - Spesifikt forskningsspørsmål
+  - Beskrivelse av hvordan masteroppgaven bidrar til kunnskap på temaet
+- Teoretisk rammeverk: beskrivelse av samfunnsøkonomisk teori som kan brukes for å forstå temaet i oppgaven.
+- Metode
+  - Datagrunnlag: datakilder og relevante variabler
+  - Økonometrisk metode: spesifikasjon av modell som skal analyseres og metode for å estimere modellen
+- Risikoanalyse: beskrivelse av utfordringer (f.eks. tilgang til data) og hvordan disse utfordringene skal håndteres.
 
 ### Kode-dokumentet sitt innhold
 * Kode brukt til å lage oppgaven, inklusive teoretisk og empirisk analyse. Koden skal klare å reprodusere innholdet i oppgaven.
