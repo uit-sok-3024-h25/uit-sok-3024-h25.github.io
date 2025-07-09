@@ -58,15 +58,15 @@ Første utkast av prosjektskissen har i stort det samme inneholdet som siste utk
 
 Prosjektskissen skal inneholde:
 - Introduksjon
- - Overgripende forskningsspørsmål/tema for oppgaven
- - Motivering til hvorfor forskning på temaet er viktig fra et samfunnsøkonomisk perspektiv.
- - Gjennomgang av relevant forskning på temaet
- - Spesifikt forskningsspørsmål
- - Beskrivelse av hvordan masteroppgaven bidrar til kunnskap på temaet
+  - Overgripende forskningsspørsmål/tema for oppgaven
+  - Motivering til hvorfor forskning på temaet er viktig fra et samfunnsøkonomisk perspektiv.
+  - Gjennomgang av relevant forskning på temaet
+  - Spesifikt forskningsspørsmål
+  - Beskrivelse av hvordan masteroppgaven bidrar til kunnskap på temaet
 - Teoretisk rammeverk
 - Metode
- - Datagrunnlag
- - Økonometrisk metode  
+  - Datagrunnlag
+  - Økonometrisk metode  
 
 
 ### Arbeidskrav 4
