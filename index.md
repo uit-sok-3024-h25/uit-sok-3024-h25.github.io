@@ -41,7 +41,7 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innleveringer og eksamen  
 
-Kurset har mappeevaluering og arbeidskrav. Mappen består i én skriftlig innlevering av en prosjektskisse. Det er X arbeidskrav på kurset. Arbeidskravene er obligatoriske men gir ikke karakter. Mappen har karakterskala A - F. 
+Kurset har mappeevaluering og arbeidskrav. Mappen består i én skriftlig innlevering av en prosjektskisse. Det er 4 arbeidskrav på kurset. Arbeidskravene er obligatoriske men gir ikke karakter. Mappen har karakterskala A - F. 
 
 ### Mappeinnlevering: 
 
