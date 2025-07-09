@@ -1,3 +1,4 @@
+{% include navbar.html %}{% include top-box.html %}
 # Peer-review av vitenskapelig arbeid
 
 Peer-review av vitenskapelig arbeid har til vanlig to formål: 1) gi en tredjepart informasjon om kvaliteten til materialet (f.eks. en editor på en vitenskapelig tidskrift, en arbeidsgiver), og 2) gi forfatterne til arbeidet informasjon om hvordan de kan forbedre kvaliteten og lesbarheten av materialet. 
