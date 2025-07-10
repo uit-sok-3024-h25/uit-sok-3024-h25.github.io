@@ -32,7 +32,9 @@ Kurset har ikke pensum som blir eksaminert. Arbeidskravene har obligatorisk lite
 
 ### Støttelitteratur
 - [Okasha, S. 2016. Philosophy of Science. A very brief introduction, Oxford university press, ISBN9780198745587](https://academic.oup.com/book/517)
--  [Sharma, D. 2024. The Illustrated Guide to Social Science Research, Routhledge, ISBN 9781032323770](https://www.routledge.com/The-Illustrated-Guide-to-Social-Science-Research/Sharma/p/book/9781032323770?srsltid=AfmBOopglkuIIRTTptS7_gsDCC0leSECfMPJY5PulIK937HYWnuN2PUh)
+- [Sharma, D. 2024. The Illustrated Guide to Social Science Research, Routhledge, ISBN 9781032323770](https://www.routledge.com/The-Illustrated-Guide-to-Social-Science-Research/Sharma/p/book/9781032323770?srsltid=AfmBOopglkuIIRTTptS7_gsDCC0leSECfMPJY5PulIK937HYWnuN2PUh)
+- [Wilkinson et al., 2016. The FAIR Guiding Principles for scientific data management and stewardship, Scientific Data volume 3, Article number: 160018](https://www.nature.com/articles/sdata201618)
+- [De Nasjonale Forskningsetiskie komiteene, 2021. Forskningsetiske retningslinjer for samfunnsvitenskap og humaniora. Forskningsetikk.no](https://www.forskningsetikk.no/retningslinjer/hum-sam/forskningsetiske-retningslinjer-for-samfunnsvitenskap-og-humaniora/)
 
 
 ## Kunngjøringer  
