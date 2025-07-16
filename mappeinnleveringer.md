@@ -71,7 +71,7 @@ Prosjektskissen skal inneholde:
 - Risikoanalyse: beskrivelse av utfordringer (f.eks. tilgang til data) og hvordan disse utfordringene skal håndteres.
 - Referanseliste
 
-**Arbeidskrav 3 SKAL inkludere en oppsummering av minst 3 vitenskapelige artikler (publiserte peer-reviewed i en vitenskapelig journal) som er relevante for temaet og forskningsspørsmålet i prosjektskissen.** Oppsummeringen skal være på  200 - 400 ord og beskrive hva forfatterne studerte, noe om utvalget og metode, og hva funnene i studien var. Studien skal refereres ved bruk av [APA](https://uit.no/ub/skriveogreferere/referansestiler/apa7/samling?p_document_id=723998#collapseSub724326). 
+**Arbeidskrav 3 SKAL inkludere en oppsummering av minst 3 vitenskapelige artikler (publiserte peer-reviewed i en vitenskapelig journal) som er relevante for temaet og forskningsspørsmålet i prosjektskissen.** Oppsummeringen skal være på  200 - 400 ord og beskrive hva forfatterne studerte, noe om utvalget og metode, og hva funnene i studien var. Studiene skal refereres ved bruk av [APA](https://uit.no/ub/skriveogreferere/referansestiler/apa7/samling?p_document_id=723998#collapseSub724326). 
 
 ### Arbeidskrav 4
 Formålet med arbeidskrav 4 er at dere skal få trening i å formidle vitenskapelig forskning, og få mulighet til å få feedback fra andre på deres prosjekt. Arbeidskravet har en skriftlig og en muntlig del. 
