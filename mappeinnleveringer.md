@@ -51,9 +51,9 @@ Den muntlige delen av arbeidskravet består i å diskutere styrker og svakheter 
 - Evaluering av de to masteroppgavene
   
 ### Arbeidskrav 3
-Formålet med arbeidskrav 3 er at dere skal komme igang med prosjektskissen, og få feedback på deres arbeid før siste innlevering. Arbeidskravet har kun en skriftlig del. 
+Formålet med arbeidskrav 3 er at dere skal komme igang med prosjektskissen, og få feedback på deres arbeid før siste innlevering. Arbeidskravet har kun en skriftlig del og består i å skrive et første utkast til prosjektskissen.
 
-**Arbeidskrav 3 kan gjennomføres i grupper om 1 - 2 personer**
+**Arbeidskravet kan gjennomføres indivduelt eller i grupper om 2 personer, avhengig av hvis dere planlegger å skriver masteroppgaven alene eller sammen med noen. Maks gruppestørrelse er 2 personer.** Gruppestørrelse blir tatt hensyn til ved godkjenning av arbeidskravet. 
 
 Første utkast av prosjektskissen har i stort det samme inneholdet som siste utkast. Formålet til å levere inn et første utkast er at dere får en sjanse å utbedre inneholdet til siste utkast. **Vi anbefaler sterkt at dere starter å jobbe med arbeidskrav 3 i starten av semestret og jobber fortløpende med arbeidskravet gjennom semestret.** 
 
@@ -88,7 +88,7 @@ I den muntlige dele skal dere:
 
 #  Mappeoppgave
 - Mappeoppgaven er obligatorisk, og teller 100 prosent av karakter på kurset (skala: A - F)
-- Mappeoppgaven er individuell, også i tilfeller da flere studenter skriver på samme tema/har det samme forskningspørsmålet.
+- Mappeoppgaven kan gjennomføres individuelt eller i grupper om 2 personer dersom disse planlegger å skrive masteroppgave sammen. Gruppestørrelse blir tatt hensyn til ved karaktersetting. 
 - Mappeoppgaven leveres inn i WiseFlow.
 
 ## Mappeoppgavens innhold
@@ -128,13 +128,42 @@ KI-deklarasjonen skal inneholde en kort og konsis beskrivelse av hvordan KI har 
 ### Forfatter-deklarasjonen sitt innhold
 Dersom dere planlegger å skrive masteroppgave sammen er det naturlig at dere vil samarbeide i literatursøk, data, og koding. Formålet med forfatterdeklarasjonen er å gi en oversikt av arbeidsfordelingen. 
 
-Forfatterdeklarasjonen skal inneholde en beskrivelse av hvem som har gjort hva i førarbeidet til oppgaven. Dersom du har gjort alt selv, skriver du ditt eget navn på alle punkter. 
+Forfatterdeklarasjonen skal inneholde en beskrivelse av hvem som har gjort hva i førarbeidet til oppgaven. Dersom du har gjort alt selv, skriver du ditt eget navn på alle punkter. Forfatterdeklarasjonen skal inneholde rollefordeling og bidrag for temaene under:
 
-**Eksempel på forfatterdeklarasjon**:
-- Forfattere som vært innvolverte i arbeidet med prosjektskissen: AM og EH.
-- Begge forfatterne har deltatt i alle deler av arbeidet med prosjektskissen. AM og EH bidrog likt til formulering av forskningsspørsmål, hypoteser, datakilder, og tolkning/diskusjon av resultater. Under beskreves deler som AM respektive EH hadde hovedansvar for i arbeidet.
-- AM: Inititial forskningsidé, og teoretisk rammeverk.
-- EH: Økonometrisk metode, datahåndtering, og estimering.   
+1. Idé og generelt tema
+2. Forskningsspørsmål og hypoteser
+3. Teoretiskt rammeverk
+4. Litteraturoversikt
+5. Datakilde/datainnsamling
+6. Databearbetning
+7. Økonometrisk metode og estimering
+8. Analyse av resultater
+9. Skriving av manuskript
+
+Forfatterdeklarasjonen kan enten presenteres i tabellform, eller i tekst.
+**Eksempel på forfatterdeklarasjon i tabellform**:
+
+| Oppgave              | Bidragsgivere|
+|--------------------|--------------|
+|Idé og generelt tema | **AM**          |
+|Forskningsspørsmål og hypoteser| AM, EH |
+|Teoretiskt rammeverk| **AM**, EH          |
+|Litteraturoversikt | AM, EH          |
+|Datakilde/datainnsamling | AM, EH          |
+|Databearbetning | AM, **EH**          |
+|Økonometrisk metode og estimering | AM, **EH** |
+|Analyse av resultater | AM, EH    |
+|Skriving av manuskript | AM, EH   |
+
+AM = Andrea Mannberg
+EH = Eirik Eriksen Heen
+Fet stil indikerer at forfatteren hadde hovedansvar for oppgaven. 
+
+**Eksempel på forfatterdeklarasjon i tekst**:
+Forfattere som vært innvolverte i arbeidet med prosjektskissen: Andrea Mannberg (AM) og Eirik Eriksen Heen (EH). AM og EH har begge deltatt i alle deler av arbeidet med prosjektskissen. AM og EH bidrog likt til formulering av forskningsspørsmål og hypoteser, Litteraturoversikt, datakilder, og tolkning/diskusjon av resultater. Under beskreves deler som AM respektive EH hadde hovedansvar for i arbeidet.
+- AM: Generelt tema og inititial forskningsidé. Teoretisk rammeverk.
+- EH: Økonometrisk metode, datahåndtering, og estimering.
+AM og EH skrev første utkast på de deler i oppgaven der de hadde hovedansvar for. Begge forfatterne leste igjennom, kommenterte og reviderte hverandres avsnitt. 
  
 
 
