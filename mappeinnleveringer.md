@@ -140,8 +140,8 @@ Forfatterdeklarasjonen skal inneholde en beskrivelse av hvem som har gjort hva i
 8. Analyse av resultater
 9. Skriving av manuskript
 
-Forfatterdeklarasjonen kan enten presenteres i tabellform, eller i tekst.
-**Eksempel på forfatterdeklarasjon i tabellform**:
+Forfatterdeklarasjonen kan enten presenteres i tabellform med utdypende detaljer i tekst under.
+**Eksempel**:
 
 | Oppgave              | Bidragsgivere|
 |--------------------|--------------|
@@ -150,7 +150,7 @@ Forfatterdeklarasjonen kan enten presenteres i tabellform, eller i tekst.
 |Teoretiskt rammeverk| **AM**, EH          |
 |Litteraturoversikt | AM, EH          |
 |Datakilde/datainnsamling | AM, EH          |
-|Databearbetning | AM, **EH**          |
+|Databearbetning | **EH**          |
 |Økonometrisk metode og estimering | AM, **EH** |
 |Analyse av resultater | AM, EH    |
 |Skriving av manuskript | AM, EH   |
@@ -159,8 +159,7 @@ AM = Andrea Mannberg
 EH = Eirik Eriksen Heen
 Fet stil indikerer at forfatteren hadde hovedansvar for oppgaven. 
 
-**Eksempel på forfatterdeklarasjon i tekst**:
-Forfattere som vært innvolverte i arbeidet med prosjektskissen: Andrea Mannberg (AM) og Eirik Eriksen Heen (EH). AM og EH har begge deltatt i alle deler av arbeidet med prosjektskissen. AM og EH bidrog likt til formulering av forskningsspørsmål og hypoteser, Litteraturoversikt, datakilder, og tolkning/diskusjon av resultater. Under beskreves deler som AM respektive EH hadde hovedansvar for i arbeidet.
+AM og EH bidrog likt til formulering av forskningsspørsmål og hypoteser, Litteraturoversikt, datakilder, og tolkning/diskusjon av resultater. Under beskreves deler som AM respektive EH hadde hovedansvar for i arbeidet.
 - AM: Generelt tema og inititial forskningsidé. Teoretisk rammeverk.
 - EH: Økonometrisk metode, datahåndtering, og estimering.
 AM og EH skrev første utkast på de deler i oppgaven der de hadde hovedansvar for. Begge forfatterne leste igjennom, kommenterte og reviderte hverandres avsnitt. 
