@@ -36,7 +36,7 @@ På seminaret vil vi diskutere hva som karakteriserer "gode" respektive "dårlig
 For å få arbeidskravet godkjent må du levere inn alle deler i innleveringen og delta aktivt på seminaret. 
 
 ### Arbeidskrav 2
-Formålet med arbeidskrav 2 er at dere skal få trening i å kritisk evaluere vitenskapelig arbeid på masternivå,få forståelse for hva som karakteriserer en "god" masteroppgave, og få kompetanse i å evaluere deres eget arbeid. Arbeidskravet har en skriftlig og en muntlig del. 
+Formålet med arbeidskrav 2 er at dere skal få trening i å kritisk evaluere vitenskapelig arbeid på masternivå, få forståelse for hva som karakteriserer en "god" masteroppgave, og få kompetanse i å evaluere deres eget arbeid. Arbeidskravet har en skriftlig og en muntlig del. 
 
 **Arbeidskrav 2 kan gjennomføres i grupper om 1 - 3 personer**
 
@@ -45,7 +45,7 @@ I den skriftlige delen skal dere:
 - Lese de to masteroppgavene
 - Evaluere masteroppgavene. Dere finner støtte til hvordan dere gjør dette [her](https://uit-sok-3024-h25.github.io/peerreview.html)
 
-På seminaret vil vi diskutere styrker og svakheter i de to masteroppgavene. 
+Den muntlige delen av arbeidskravet består i å diskutere styrker og svakheter i masteroppgavene på et seminar.
 
 **Innlevering:**
 - Evaluering av de to masteroppgavene
