@@ -141,6 +141,7 @@ Forfatterdeklarasjonen skal inneholde en beskrivelse av hvem som har gjort hva i
 9. Skriving av manuskript
 
 Forfatterdeklarasjonen kan enten presenteres i tabellform med utdypende detaljer i tekst under.
+
 **Eksempel**:
 
 | Oppgave              | Bidragsgivere|
