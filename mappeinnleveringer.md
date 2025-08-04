@@ -156,12 +156,15 @@ Forfatterdeklarasjonen kan enten presenteres i tabellform med utdypende detaljer
 |Skriving av manuskript | AM, EH   |
 
 AM = Andrea Mannberg
+
 EH = Eirik Eriksen Heen
+
 Fet stil indikerer at forfatteren hadde hovedansvar for oppgaven. 
 
 AM og EH bidrog likt til formulering av forskningsspørsmål og hypoteser, Litteraturoversikt, datakilder, og tolkning/diskusjon av resultater. Under beskreves deler som AM respektive EH hadde hovedansvar for i arbeidet.
 - AM: Generelt tema og inititial forskningsidé. Teoretisk rammeverk.
 - EH: Økonometrisk metode, datahåndtering, og estimering.
+  
 AM og EH skrev første utkast på de deler i oppgaven der de hadde hovedansvar for. Begge forfatterne leste igjennom, kommenterte og reviderte hverandres avsnitt. 
  
 
