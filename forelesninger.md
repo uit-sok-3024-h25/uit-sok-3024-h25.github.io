@@ -9,6 +9,8 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 ### F5 - Bruk av kunstig intelligense i forskning
 ### F6 - Formidling
 * [Science communications matter and how to make it better - TED talk (communicating research to the public)](https://www.youtube.com/watch?v=7Rt8sgt7gNE)
+* [How To Give The Perfect Presentation ( Academic Conferences & Keynotes).Prof. David Stuckler](https://www.youtube.com/watch?v=0Vjh5d5rez0)
+* [Want to Give a Great Presentation? Use Ugly Sketches | Martin J. Eppler | TED](https://www.youtube.com/watch?v=0Vjh5d5rez0)
 * [How to create a better research poster - part 1](https://youtu.be/1RwJbhkCA58)
 * [How to create a better research poster - part 2](https://youtu.be/SYk29tnxASs)
 
