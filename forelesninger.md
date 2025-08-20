@@ -7,6 +7,12 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 
 ### F2 - Introduksjon til faget
 ### F3 - Forskningsprosessen del 1
+
+#### Forelesningsnotater
+#### Støtteressurser
+* [Grad Coach: Youtube-kanal med mange nyttige instrukjsonsvideoer]https://www.youtube.com/@GradCoach)
+
+  
 ### F4 - Forskningsprosessen del 2
 ### F5 - Datakilder og datahåndtering
 ### F5 - Bruk av kunstig intelligense i forskning
