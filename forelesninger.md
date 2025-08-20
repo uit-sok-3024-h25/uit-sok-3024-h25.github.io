@@ -9,13 +9,24 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 ### F3 - Forskningsprosessen del 1
 
 #### Forelesningsnotater
-#### Støtteressurser
-* [Grad Coach: Youtube-kanal med mange nyttige instrukjsonsvideoer]https://www.youtube.com/@GradCoach)
+
 
   
 ### F4 - Forskningsprosessen del 2
+
+#### Støtteressurser
+* [Grad Coach: Youtube-kanal med mange nyttige instrukjsonsvideoer](https://www.youtube.com/@GradCoach)
+* [I’ve Graded 1000 Dissertations: Here’s Everything I Know.  Mark Egan, associate professor in organizational psychology](https://www.youtube.com/watch?v=dv3Bo5jJhWM)
+* 
 ### F5 - Datakilder og datahåndtering
+
 ### F5 - Bruk av kunstig intelligense i forskning
+
+### Støtteressurser
+* [Don't use AI for research until you've watched this...NEW Rules. Andy Stapleton](https://www.youtube.com/watch?v=KC1KPvBm51E)
+* [ChatGPT 4o - Research Techniques Made Simple. Andy Stapleton](https://www.youtube.com/watch?v=-Th29mUlA2s)
+
+  
 ### F6 - Formidling
 * [Science communications matter and how to make it better - TED talk (communicating research to the public)](https://www.youtube.com/watch?v=7Rt8sgt7gNE)
 * [How To Give The Perfect Presentation ( Academic Conferences & Keynotes).Prof. David Stuckler](https://www.youtube.com/watch?v=0Vjh5d5rez0)
