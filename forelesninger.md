@@ -20,7 +20,7 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 #### Støtteressurser
 * [Grad Coach: Youtube-kanal med mange nyttige instrukjsonsvideoer](https://www.youtube.com/@GradCoach)
 * [I’ve Graded 1000 Dissertations: Here’s Everything I Know.  Mark Egan, associate professor in organizational psychology](https://www.youtube.com/watch?v=dv3Bo5jJhWM)
-* 
+  
 ### F5 - Datakilder og datahåndtering
 
 ### F5 - Bruk av kunstig intelligense i forskning
