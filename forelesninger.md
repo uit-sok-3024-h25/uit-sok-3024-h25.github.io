@@ -3,9 +3,12 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 
 ### F1 - Introduksjon til kurset
 #### Forelesningsnotater
-* [F1 - Introduksjon til kurset](https://uit-sok-3024-H25.github.io/assets/F1_sok_3024__H25.pdf)
+* [F1 - Introduksjon til kurset](https://uit-sok-3024-H25.github.io/assets/F1_sok_3024_H25.pdf)
 
 ### F2 - Introduksjon til faget
+#### Forelesningsnotater
+* [F2 - Introduksjon til faget](https://uit-sok-3024-H25.github.io/assets/F2_sok_3024_H25.pdf)
+  
 ### F3 - Forskningsprosessen del 1
 
 #### Forelesningsnotater
