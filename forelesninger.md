@@ -1,3 +1,4 @@
+{% include navbar.html %}  {% include top-box.html %}
 # Forelesningsnotater og ressurser
 På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker kan være nyttige. Siden oppdateres fortløpende.
 
