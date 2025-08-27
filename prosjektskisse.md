@@ -1,12 +1,15 @@
 {% include navbar.html %}  {% include top-box.html %}
 # Mal prosjektskisse
+
+Det finns ikke noen "fasit" til hvordan en prosjektskisse skal se ut. Eksakt disposisjon og innhold avhenger både fagfeldt og mottakere til skissen (f eks ulike type forskningsfinansiærer). Felles for alle prosjektskisser er likevel at de beskriver forskningsspørsmål, hva vi vet om dette forskningsspørsmålet per idag, og hvordan prosjektet vil bidra til økt kunnskap. I tillegg skal prosjektskissen vise at forskningsgruppen er kapabel til å gjennomføre prosjektet. Dette gjørs f.eks i en datainnsamlingsplan, arbeidsplan, og risikoanalyse. Her nede gis et eksempel på hvordan dere kan strukturere prosjektskissen. 
+
 ## Introduksjon
 Introduksjonen skal gi leseren en oversikt av hva prosjektet handler om, hvorfor dette temaet er viktig å studere fra et samfunnsøkonomisk perspektiv, og hvordan prosjektet bidrar med ny kunnskap. 
 
 * Beskriv det overgripande temaet for oppgaven
 * Bruk samfunnsøkonomisk teori, empirisk forskning, og eventuelt andre kilder (f.eks. nyhetsmedia) til å motivere hvorfor temaet er interessant fra et samfunnsøkonomisk ståsted.   
 * Beskriv hva vi vet om dette temaet fra før ved å oppsummere tidligere litteratur på samme tema.
-* Beskriv spesifikke forskningsspørsmål i prosjektet
+* Beskriv forskningsspørsmålene i prosjektet
 * Beskriv hvordan prosjektet som presenteres i skissen bidrar til ny kunnskap. Dette kan f.eks. være forskningsspørsmål som ikke blitt studert tidligere, eller ved bruk av nye data eller en ny metode til å analysere data. Relatere argumentene til den eksisterende forskningen.
 
 ## Teoretisk rammeverk
