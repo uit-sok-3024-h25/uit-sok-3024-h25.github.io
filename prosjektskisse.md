@@ -17,24 +17,25 @@ Her under er et eksempel på hvordan en prosjektskisse kan struktureres
 ## Introduksjon
 Introduksjonen skal gi leseren en oversikt av hva prosjektet handler om, hvorfor dette temaet er viktig å studere fra et samfunnsøkonomisk perspektiv, og hvordan prosjektet bidrar med ny kunnskap. 
 
-* Beskriv det overgripande temaet for oppgaven
+* Beskriv det overgripande temaet/forskningspørsmålet som prosjektet har til mål å besvare.
 * Bruk samfunnsøkonomisk teori, empirisk forskning, og eventuelt andre kilder (f.eks. nyhetsmedia) til å motivere hvorfor temaet er interessant fra et samfunnsøkonomisk ståsted.   
-* Beskriv hva vi vet om dette temaet fra før ved å oppsummere tidligere litteratur på samme tema.
-* Beskriv forskningsspørsmålene i prosjektet
-* Beskriv hvordan prosjektet som presenteres i skissen bidrar til ny kunnskap. Dette kan f.eks. være forskningsspørsmål som ikke blitt studert tidligere, eller ved bruk av nye data eller en ny metode til å analysere data. Relatere argumentene til den eksisterende forskningen.
 
 ## Tidligere forskning
 Denne seksjonen skal gi leseren en oversikt over forskning på det mer overgripende temaet til prosjektet og detaljert innsikt i forskning som er nært relatert til forskningsspørsmålet som prosjektet har som mål å besvare. Dette vil hjelpe leseren å sette seg in i forskningsfeldtet og gi leseren mulighet å evaluere i hvilken grad prosjektet fører til (substansiell) ny kunnskap. Det vil i tillegg vise at forfatterne har tilstrekkelig kunnskap for å gjennomføre prosjektet. 
 
 * Oppsummere tidligere forskning som er relatert til forskningspørsmålet i prosjektet, men som ikke er svært nært relatert.
+    * Definer begreper 
 * Gi en mer detaljert beskrivelse av tidligere forskning som er nært relatert (svært relevant) til forskningsspørsmålet i prosjektet.
 * Diskuter behovet for ny forskning på temaet: identifiser "hull" i forskningslitteraturen. Disse "hullene" kan være at tidligere forskning ikke har stilt viktige spørsmål, eller mangler i metoden som denne forskningen har brukt (datakilder eller statistisk metode).
 
 ## Teoretisk rammeverk
-Introduksjonen gir leseren en idé om hvorfor temaet for prosjektskissen er interessant fra et samfunnsøkonomisk perspektiv. Formålet med det teoretiske rammeverket er å gi leseren en dybde-forståelse for de økonomiske mekanismene som ligger bak "problemet" og forskningsspørsmålet. Avsnittet brukes i tillegg til å utlede eller motivere hypotesene som skal testes i den empiriske analysen.
+Formålet med det teoretiske rammeverket er å gi leseren en forståelse for hvordan det overgripende forskningsspørsmålet i prosjektet passer inn i samfunnsøkonomisk teori. I tillegg skal seksjonen gi leseren en dybde-forståelse for de økonomiske mekanismene som ligger bak "problemet" og forskningsspørsmålet. Til sist Avsnittet brukes i tillegg til å utlede eller motivere hypotesene som skal testes i den empiriske analysen.
 
 Seksjonen kan inneholde analyse av en matematisk modell, men trenger ikke å gjøre det. 
 
+* Beskriv hva vi vet om dette temaet fra før ved å oppsummere tidligere litteratur på samme tema.
+* Beskriv forskningsspørsmålene i prosjektet
+* Beskriv hvordan prosjektet som presenteres i skissen bidrar til ny kunnskap. Dette kan f.eks. være forskningsspørsmål som ikke blitt studert tidligere, eller ved bruk av nye data eller en ny metode til å analysere data. Relatere argumentene til den eksisterende forskningen.
 ## Metode
 Formålet med metode-avsnittet er å hjelpe leseren forstå hvordan forskningsspørsmålene blir besvarte i prosjektet. Leseren skal kunne bruke metodedelen til å evaluere i hvilken grad studien klarer å besvare på forskningsspørsmålene. Det er ikke helt uvanlig at metode-seksjonen starter med å spesifisere hypotesene som skal bli testet. 
 * Definere hypoteser
