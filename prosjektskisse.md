@@ -29,9 +29,20 @@ Denne seksjonen skal gi leseren en oversikt over forskning på det mer overgripe
 * Diskuter behovet for ny forskning på temaet: identifiser "hull" i forskningslitteraturen. Disse "hullene" kan være at tidligere forskning ikke har stilt viktige spørsmål, eller mangler i metoden som denne forskningen har brukt (datakilder eller statistisk metode).
 
 ## Teoretisk rammeverk
-Formålet med det teoretiske rammeverket er å gi leseren en forståelse for hvordan det overgripende forskningsspørsmålet i prosjektet passer inn i samfunnsøkonomisk teori. I tillegg skal seksjonen gi leseren en dybde-forståelse for de økonomiske mekanismene som ligger bak "problemet" og forskningsspørsmålet. Til sist Avsnittet brukes i tillegg til å utlede eller motivere hypotesene som skal testes i den empiriske analysen.
+Denne seksjonen har tre formål:
+1. Gi leseren en forståelse for hvordan det overgripende forskningsspørsmålet i prosjektet passer inn i samfunnsøkonomisk teori.
+2. Gi leseren en dybde-forståelse for de økonomiske mekanismene som ligger bak "problemet" og forskningsspørsmålet.
+3. Motivere hypoteser som blir testet i prosjektet
 
 Seksjonen kan inneholde analyse av en matematisk modell, men trenger ikke å gjøre det. 
+
+* Gi en kortfattet beskrivelse av den teoribildning som forskningsspørsmålet hører hjemme i generelt (f.eks. arbeidsmarkedsøkonomi, økonomisk vekst, atferdsøkonomi). Oppsummerer viktige konklusjoner og/eller antakelser fra denne teoribildningen.
+* Gi en detaljert beskrivelse av den teori som forskningsspørsmålet er tett knyttet opp imot, dersom en slik teori eksisterer.
+* Beskriv de teoretiske mekanismene som er relevante for hypotesene i prosjektet
+
+### Hypoteser
+* Beskriv hypotesene som testes i prosjektet
+  
 
 * Beskriv hva vi vet om dette temaet fra før ved å oppsummere tidligere litteratur på samme tema.
 * Beskriv forskningsspørsmålene i prosjektet
