@@ -29,7 +29,7 @@ Introduksjonen skal gi leseren en oversikt av hva prosjektet handler om, hvorfor
 Denne seksjonen skal gi leseren en oversikt over forskning på det mer overgripende temaet til prosjektet og detaljert innsikt i forskning som er nært relatert til forskningsspørsmålet som prosjektet har som mål å besvare. Dette vil hjelpe leseren å sette seg in i forskningsfeldtet og gi leseren mulighet å evaluere i hvilken grad prosjektet fører til (substansiell) ny kunnskap. Det vil i tillegg vise at forfatterne har tilstrekkelig kunnskap for å gjennomføre prosjektet. 
 
 * Oppsummere tidligere forskning som er relatert til forskningspørsmålet i prosjektet, men som ikke er svært nært relatert.
-    * Definer begreper 
+    * Husk å definer økonomiske begreper (kortfattet)
 * Gi en mer detaljert beskrivelse av tidligere forskning som er nært relatert (svært relevant) til forskningsspørsmålet i prosjektet.
 * Diskuter behovet for ny forskning på temaet: identifiser "hull" i forskningslitteraturen. Disse "hullene" kan være at tidligere forskning ikke har stilt viktige spørsmål, eller mangler i metoden som denne forskningen har brukt (datakilder eller statistisk metode).
 
