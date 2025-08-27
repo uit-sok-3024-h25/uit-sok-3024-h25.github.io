@@ -1,7 +1,18 @@
 {% include navbar.html %}  {% include top-box.html %}
 # Mal prosjektskisse
 
-Det finns ikke noen "fasit" til hvordan en prosjektskisse skal se ut. Eksakt disposisjon og innhold avhenger både fagfeldt og mottakere til skissen (f eks ulike type forskningsfinansiærer). Felles for alle prosjektskisser er likevel at de beskriver forskningsspørsmål, hva vi vet om dette forskningsspørsmålet per idag, og hvordan prosjektet vil bidra til økt kunnskap. I tillegg skal prosjektskissen vise at forskningsgruppen er kapabel til å gjennomføre prosjektet. Dette gjørs f.eks i en datainnsamlingsplan, arbeidsplan, og risikoanalyse. Her nede gis et eksempel på hvordan dere kan strukturere prosjektskissen. 
+Det finns ikke noen "fasit" til hvordan en prosjektskisse skal se ut. Eksakt disposisjon og innhold avhenger både fagfeldt og mottakere til skissen (f eks ulike type forskningsfinansiærer). 
+
+Felles for alle prosjektskisser er likevel at de beskriver:
+
+* Målet med forskningsprosjektet - tematikk og overgripende forskningsspørsmål
+* Motivering til hvorfor temaet er viktig generelt og spesifikt for fagområdet
+* Hva vi vet om temaet og forskningsspørsmålet per idag
+* Hvordan forskningsspørsmålet passer inn i større teoretisk sammenheng
+* Hvordan prosjektet vil bidra til økt kunnskap
+* Plan for gjennomføring av prosjektet
+
+Her under er et eksempel på hvordan en prosjektskisse kan struktureres
 
 ## Introduksjon
 Introduksjonen skal gi leseren en oversikt av hva prosjektet handler om, hvorfor dette temaet er viktig å studere fra et samfunnsøkonomisk perspektiv, og hvordan prosjektet bidrar med ny kunnskap. 
@@ -11,6 +22,13 @@ Introduksjonen skal gi leseren en oversikt av hva prosjektet handler om, hvorfor
 * Beskriv hva vi vet om dette temaet fra før ved å oppsummere tidligere litteratur på samme tema.
 * Beskriv forskningsspørsmålene i prosjektet
 * Beskriv hvordan prosjektet som presenteres i skissen bidrar til ny kunnskap. Dette kan f.eks. være forskningsspørsmål som ikke blitt studert tidligere, eller ved bruk av nye data eller en ny metode til å analysere data. Relatere argumentene til den eksisterende forskningen.
+
+## Tidligere forskning
+Denne seksjonen skal gi leseren en oversikt over forskning på det mer overgripende temaet til prosjektet og detaljert innsikt i forskning som er nært relatert til forskningsspørsmålet som prosjektet har som mål å besvare. Dette vil hjelpe leseren å sette seg in i forskningsfeldtet og gi leseren mulighet å evaluere i hvilken grad prosjektet fører til (substansiell) ny kunnskap. Det vil i tillegg vise at forfatterne har tilstrekkelig kunnskap for å gjennomføre prosjektet. 
+
+* Oppsummere tidligere forskning som er relatert til forskningspørsmålet i prosjektet, men som ikke er svært nært relatert.
+* Gi en mer detaljert beskrivelse av tidligere forskning som er nært relatert (svært relevant) til forskningsspørsmålet i prosjektet.
+* Diskuter behovet for ny forskning på temaet: identifiser "hull" i forskningslitteraturen. Disse "hullene" kan være at tidligere forskning ikke har stilt viktige spørsmål, eller mangler i metoden som denne forskningen har brukt (datakilder eller statistisk metode).
 
 ## Teoretisk rammeverk
 Introduksjonen gir leseren en idé om hvorfor temaet for prosjektskissen er interessant fra et samfunnsøkonomisk perspektiv. Formålet med det teoretiske rammeverket er å gi leseren en dybde-forståelse for de økonomiske mekanismene som ligger bak "problemet" og forskningsspørsmålet. Avsnittet brukes i tillegg til å utlede eller motivere hypotesene som skal testes i den empiriske analysen.
