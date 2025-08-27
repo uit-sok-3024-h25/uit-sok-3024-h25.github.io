@@ -18,7 +18,12 @@ Her under er et eksempel på hvordan en prosjektskisse kan struktureres
 Introduksjonen skal gi leseren en oversikt av hva prosjektet handler om, hvorfor dette temaet er viktig å studere fra et samfunnsøkonomisk perspektiv, og hvordan prosjektet bidrar med ny kunnskap. 
 
 * Beskriv det overgripande temaet/forskningspørsmålet som prosjektet har til mål å besvare.
-* Bruk samfunnsøkonomisk teori, empirisk forskning, og eventuelt andre kilder (f.eks. nyhetsmedia) til å motivere hvorfor temaet er interessant fra et samfunnsøkonomisk ståsted.   
+* Bruk samfunnsøkonomisk teori, empirisk forskning, og eventuelt andre kilder (f.eks. nyhetsmedia) til å motivere hvorfor temaet er interessant fra et samfunnsøkonomisk ståsted.
+* **Oppsummer** tidligere forskning på temaet og "kunnskapshull"
+* **Oppsummer** hvordan prosjektet bidrar til å redusere disse "kunnskapshullene".
+   * Spesifikke forskningsspørsmål
+   * Data
+   * Statistisk metode      
 
 ## Tidligere forskning
 Denne seksjonen skal gi leseren en oversikt over forskning på det mer overgripende temaet til prosjektet og detaljert innsikt i forskning som er nært relatert til forskningsspørsmålet som prosjektet har som mål å besvare. Dette vil hjelpe leseren å sette seg in i forskningsfeldtet og gi leseren mulighet å evaluere i hvilken grad prosjektet fører til (substansiell) ny kunnskap. Det vil i tillegg vise at forfatterne har tilstrekkelig kunnskap for å gjennomføre prosjektet. 
@@ -43,40 +48,34 @@ Seksjonen kan inneholde analyse av en matematisk modell, men trenger ikke å gj�
 ### Hypoteser
 * Beskriv hypotesene som testes i prosjektet
   
-
-* Beskriv hva vi vet om dette temaet fra før ved å oppsummere tidligere litteratur på samme tema.
-* Beskriv forskningsspørsmålene i prosjektet
-* Beskriv hvordan prosjektet som presenteres i skissen bidrar til ny kunnskap. Dette kan f.eks. være forskningsspørsmål som ikke blitt studert tidligere, eller ved bruk av nye data eller en ny metode til å analysere data. Relatere argumentene til den eksisterende forskningen.
 ## Metode
-Formålet med metode-avsnittet er å hjelpe leseren forstå hvordan forskningsspørsmålene blir besvarte i prosjektet. Leseren skal kunne bruke metodedelen til å evaluere i hvilken grad studien klarer å besvare på forskningsspørsmålene. Det er ikke helt uvanlig at metode-seksjonen starter med å spesifisere hypotesene som skal bli testet. 
-* Definere hypoteser
-* Her kan det også være greit å definere en empirisk modell (en lignging) som "oversetter" hypotesen fra ord til matematikk. Dette er ikke nødvendig, men kan iblant være veldig flott. Husk at, dersom en ligning presenteres må den forklares.
+Formålet med metode-seksjonen er å hjelpe leseren forstå hvordan forskningsspørsmålene blir besvarte i prosjektet. Leseren skal videre ha tilstrekkelig informasjon for å kunne evaluere i hvilken grad metoden *klarer* å teste hypotesene. 
   
 ### Data
-* Beskriv datakilder som dere planlegger å bruke til analysen.
-* Beskriv plan for å samle inn data
+* Beskriv datakilder som vil benyttes til å besvare forskningspørsmålet/teste hypotesene.
     * Beskriv karakterstrekk ved disse kildene (f.eks utvalg, innsamlingsmetode)
-* NB: Dersom dere planlegger å samle inn data selve må dere beskrive metoden for dette her (f.eks
+* NB: Dersom dere planlegger å samle inn data selve må dere beskrive metoden for dette her (f.eks rekrutteringsmetode, design på spørreskjema eller eksperiment)
 * Beskriv variabler dere planlegger å bruke i den empiriske analysen
    * Avhengig variabel
    * Forklarende variabler knyttet direkte til hypotesene
    * Kontrollvariabler 
 
+#### Datainnsamlingsplan
+* Beskriv tidplanen for datainnsamling
+  
 ### Økonometrisk strategi
 * Presenter en ligning som inkluderer de variabler som ble beskrevet i data-avsnittet. Husk å forklare alle deler i ligningen i teksten. 
 * Beskriv de hensyn som må tas for å kunne teste hypotesene og eventuelle utfordringer gitt det datamaterial som skal brukes i analysen.
 * Beskriv den økonometriske metode som blir brukt til estimere modellen. 
 * Beskriv hvordan dere (den økonometriske strategien som dere bruker) håndterer eventuelle utfordringer.
   
-### Risikoanalyse
 
-Overgripende forskningsspørsmål/tema for oppgaven
-Motivering til hvorfor forskning på temaet er viktig fra et samfunnsøkonomisk perspektiv.
-Gjennomgang av relevant forskning på temaet
-Spesifikt forskningsspørsmål
-Beskrivelse av hvordan masteroppgaven bidrar til kunnskap på temaet
-Teoretisk rammeverk: beskrivelse av samfunnsøkonomisk teori som kan brukes for å forstå temaet i oppgaven.
-Metode
-Datagrunnlag: datakilder og relevante variabler
-Økonometrisk metode: spesifikasjon av modell som skal analyseres og metode for å estimere modellen
-Risikoanalyse: beskrivelse av utfordringer (f.eks. tilgang til data) og hvordan disse utfordringene skal håndteres.
+### Risikoanalyse
+Formålet med denne seksjonen er å identifisere potensielle utfordringer for prosjektets gjennomføring, og tiltak for å redusere risikoen at disse utfordringene fører til at målene til prosjektet ikke oppnås.
+
+Beskriv eventuelle problemer som kan oppstå, og hvordan dere planlegger å håndtere disse problemene. Eksakt hvilke temaer som skal tas opp i risikoanalysen varierer fra prosjekt til prosjekt, men to temaer skal alltid belyses:
+
+* Data: finns det noen utfordringer med å få tilgang til data, eller er usikkerhet knyttet til i hvilken grad data klarer å besvare forskningsspørsmålene?
+* Forskningsgruppen: finns det noen risiko at medlemmer i forskningsgruppen "forsvinner"? Hvordan ser arbeidsbyrden ut sammenlignet med forskningsgruppens kapasitet? finns det risiko at arbeidsfordelingen i gruppen blir skjev? Hvordan vil eventuelle konflikter i forskningsgruppen håndteres?
+
+Husk å beskriv hvordan dere håndterer utfordringene. 
