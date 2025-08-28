@@ -32,10 +32,9 @@ Introduksjonen skal gi leseren en oversikt av hva prosjektet handler om, hvorfor
   * Beskriv målet med prosjektet og de spesifikke forskningsspørsmålene som vil bli besvarte.
      
 ## Litteraturoversikt (tidligere forskning)
-Denne seksjonen skal gi leseren forståelse for i hvilken bredere idé-tradisjon det overgripende forskningsproblemet/-spørsmålet hører hjemme, og hvordan den skal forstå forskningsproblemet ut ifra denne tradisjonen. 
-Seksjonen skal også gi leseren en oversikt av hva vi vet om det spesifikke forskningsspørsmålet per idag og hvilke spørsmål som står igjen (forskningshullene). 
-
-Seksjonen hjelper leseren å sette seg in i forskningsfeldtet og gir den mulighet å evaluere i hvilken grad prosjektet fører til (substansiell) ny kunnskap. Den vil i tillegg vise at forfatterne har tilstrekkelig kunnskap for å gjennomføre prosjektet. 
+Formålet denne seksjonen er å hjelpe leseren sette seg in i forskningsfeldtet og evaluere i hvilken grad prosjektet fører til (substansiell) ny kunnskap. Den vil i tillegg vise at forfatterne har tilstrekkelig kunnskap for å gjennomføre prosjektet.  
+Litteraturoversikten skal gå fra bredde til dybde: leseren skal få en forståelse for i hvilken bredere idé-tradisjon det overgripende forskningsproblemet/-spørsmålet hører hjemme, og hvordan den skal forstå forskningsproblemet ut ifra denne tradisjonen. 
+Seksjonen skal også gi leseren en oversikt av hva vi vet om det spesifikke forskningsspørsmålet per idag og en idé om hvilke spørsmål som står igjen (forskningshullene). 
 
 ### Teori
 Teori-seksjonen er "grundplaten" for hele forskningsprosjektet. Seksjonen skal vise hvordan forskningsproblemet og forskningsspørsmålene passer inn i den samfunnsøkonomiske idé-tradisjonen i stort, og gi en detaljert forståelse for spesifikke samfunnsøkonomiske teorier kan brukes for å forstå problemet. Teori-seksjonen viser at forfatterne har forståelse for fagområdet og bakgrunnen til problemet, og motiverer både hypoteser og spesifikasjonen av de modeller som blir evaluerte i den empiriske analysen. 
