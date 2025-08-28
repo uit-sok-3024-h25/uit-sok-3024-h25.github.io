@@ -46,7 +46,7 @@ Teori-seksjonen er "grundplaten" for hele forskningsprosjektet. Seksjonen skal v
 * Beskriv hypotesene som vil bli testet i prosjektet. Hypotesene skal være basert på teorien som har blitt diskutert. Vær nøye med å forklare de samfunnsøkonomiske mekanismene.
    
 ### Empirisk forskning
-Denne seksjonen skal vise hva empirisk forskning, som er relatert til forskningsspørsmålet, har funnet, og gi en idé om hvilke spørsmålstegn som gjenstår. 
+Denne seksjonen skal vise hva empirisk forskning, som er relatert til forskningsspørsmålet, har funnet, og gi en idé om viktige spørsmål som fortsatt ikke er besvarte av én eller annen grunn. 
 
 * Oppsummere tidligere forskning som er relatert til forskningspørsmålet i prosjektet, men som ikke er svært nært relatert.
 * Diskuter tidligere forskning som er nært relatert (svært relevant) til forskningsspørsmålet i prosjektet.
