@@ -95,7 +95,7 @@ Beskriv eventuelle problemer som kan oppstå, og hvordan dere planlegger å hån
 Husk å beskriv hvordan dere håndterer utfordringene. Her kan dere i tilegg beskrive "praktikaliteter", det vil si hvordan dere rent praktisk vil jobbe for å komme i mål med prosjektet.
 
 ## Referanser
-Det finns mange verktøy for referansehåndtering, f.eks. [Mendeley](https://www.mendeley.com/), [Sotero](https://www.zotero.org/download/), og [Endnote](https://endnote.com/?srsltid=AfmBOorRrh7TUN8eU3Cz2bteRPGjSe0YKuG988eG3ZqLfhOgzJXs62gC).
+Det finns mange verktøy for referansehåndtering, f.eks. [Mendeley](https://www.mendeley.com/), [Zotero](https://www.zotero.org/download/), og [Endnote](https://endnote.com/?srsltid=AfmBOorRrh7TUN8eU3Cz2bteRPGjSe0YKuG988eG3ZqLfhOgzJXs62gC).
 
 * Oppgi alle kilder som har blitt brukt i prosjektskissen
 
