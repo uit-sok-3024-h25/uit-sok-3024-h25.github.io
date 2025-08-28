@@ -59,7 +59,7 @@ Første utkast av prosjektskissen har i stort det samme inneholdet som siste utk
 
 Dere finner en mal til hvordan prosjektskissen kan struktureres [her](https://uit-sok-3024-h25.github.io/prosjektskisse.html)
 
-Disposisjonen til prosjektskissen er ikke "skreven i stein". Dere kan velge å omstrukturere litt dersom dere ønsker dette. Alle deler i malen skal likevel være med i prosjektskissen. 
+Disposisjonen til prosjektskissen er ikke "hugget i stein". Dere kan velge å omstrukturere litt dersom dere ønsker dette. Alle deler i malen skal likevel være med i prosjektskissen. 
 
 **Arbeidskrav 3 SKAL inkludere en oppsummering av minst 3 vitenskapelige artikler (publiserte peer-reviewed i en vitenskapelig journal) som er relevante for temaet og forskningsspørsmålet i prosjektskissen.** Oppsummeringen skal være på  200 - 400 ord og beskrive hva forfatterne studerte, noe om utvalget og metode, og hva funnene i studien var. Studiene skal refereres ved bruk av [APA](https://uit.no/ub/skriveogreferere/referansestiler/apa7/samling?p_document_id=723998#collapseSub724326). 
 
@@ -94,7 +94,7 @@ For å få karakter på mappeoppgaven må alle dokumenter leveres inn.
 
 Dere finner en mal til hvordan prosjektskissen kan struktureres [her](https://uit-sok-3024-h25.github.io/prosjektskisse.html). 
 
-Disposisjonen til prosjektskissen er ikke "skreven i stein". Dere kan velge å omstrukturere litt dersom dere ønsker dette. Alle deler i malen skal likevel være med i prosjektskissen. 
+Disposisjonen til prosjektskissen er ikke "hugget i stein". Dere kan velge å omstrukturere litt dersom dere ønsker dette. Alle deler i malen skal likevel være med i prosjektskissen. 
 
 ### Kode-dokumentet sitt innhold
 * Kode brukt til å lage oppgaven, inklusive teoretisk og empirisk analyse. Koden skal klare å reprodusere innholdet i oppgaven.
