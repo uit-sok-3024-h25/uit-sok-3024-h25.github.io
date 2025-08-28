@@ -12,6 +12,10 @@ Felles for alle prosjektskisser er likevel at de beskriver:
 * Hvordan prosjektet vil bidra til økt kunnskap
 * Plan for gjennomføring av prosjektet
 
+Youtube-kanalen Grad Coach har flere nyttige videoer på temaet:
+* [Research Proposal Examples & Samples (Masters & PhD)](https://www.youtube.com/watch?v=Hs5qVavUjwI)
+* [Research Proposal ESSENTIALS - 5 Critically Important Dos & Don'ts](https://www.youtube.com/watch?v=Y9xeH7Bwo_E)
+
 Her under er et eksempel på hvordan en prosjektskisse kan struktureres
 
 ## Introduksjon
@@ -25,8 +29,12 @@ Introduksjonen skal gi leseren en oversikt av hva prosjektet handler om, hvorfor
    * Data
    * Statistisk metode      
 
-## Tidligere forskning
+## Litteraturoversikt
 Denne seksjonen skal gi leseren en oversikt over forskning på det mer overgripende temaet til prosjektet og detaljert innsikt i forskning som er nært relatert til forskningsspørsmålet som prosjektet har som mål å besvare. Dette vil hjelpe leseren å sette seg in i forskningsfeldtet og gi leseren mulighet å evaluere i hvilken grad prosjektet fører til (substansiell) ny kunnskap. Det vil i tillegg vise at forfatterne har tilstrekkelig kunnskap for å gjennomføre prosjektet. 
+
+### Teoretisk rammeverk 
+
+### Empirisk forskning
 
 * Oppsummere tidligere forskning som er relatert til forskningspørsmålet i prosjektet, men som ikke er svært nært relatert.
     * Husk å definer økonomiske begreper (kortfattet)
