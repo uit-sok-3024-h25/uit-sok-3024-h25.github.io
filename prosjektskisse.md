@@ -16,13 +16,25 @@ Youtube-kanalen Grad Coach har flere nyttige videoer på temaet:
 * [Research Proposal Examples & Samples (Masters & PhD)](https://www.youtube.com/watch?v=Hs5qVavUjwI)
 * [Research Proposal ESSENTIALS - 5 Critically Important Dos & Don'ts](https://www.youtube.com/watch?v=Y9xeH7Bwo_E)
 
-Her under er et eksempel på hvordan en prosjektskisse kan struktureres
+Eksemplet under bygger til stor grad på malen som blir forklart i den første videoen. 
 
 ## Introduksjon
-Introduksjonen skal gi leseren en oversikt av hva prosjektet handler om, hvorfor dette temaet er viktig å studere fra et samfunnsøkonomisk perspektiv, og hvordan prosjektet bidrar med ny kunnskap. 
+Introduksjonen skal gi leseren en oversikt av hva prosjektet handler om, hvorfor dette er viktig å studere fra et samfunnsøkonomisk perspektiv. **Husk at alle argumenter som ikke er allmenn kunnskap må ha kildehenvisning til pålitelige kilder**. 
 
-* Beskriv det overgripande temaet/forskningspørsmålet som prosjektet har til mål å besvare.
-* Bruk samfunnsøkonomisk teori, empirisk forskning, og eventuelt andre kilder (f.eks. nyhetsmedia) til å motivere hvorfor temaet er interessant fra et samfunnsøkonomisk ståsted.
+* Bakgrunn og kontekst:
+  * Introduser leseren til temaet for oppgaven. Forklar sentrale begreper og terminologi slik at en leser som ikke er ekspert på området kan forstå forskningsproblemet / - spørsmålene.
+* Problemformulering:
+  * Beskriv det overgripende forskningsproblemet/-spørsmålet.   
+* Motivering:
+  * Beskriv hvorfor det overgripende forskningsproblemet/-spørsmålet er viktig å studere fra et samfunnsøkonomisk perspektiv.
+  * Beskriv hvordan det å løse problemet/besvare forskningsspørsmålet vil øke nytten i samfunnet.
+* Målet med prosjektet og spesifikke forskningsspørsmål
+  * Beskriv målet med prosjektet og de spesifikke forskningsspørsmålene som vil bli besvarte.
+     
+## Litteraturoversikt (tidligere forskning)
+Denne seksjonen skal gi leseren forståelse for i hvilken bredere idé-tradisjon det overgripende forskningsproblemet/-spørsmålet hører hjemme, og hvordan den skal forstå forskningsproblemet ut ifra denne tradisjonen. 
+Seksjonen skal også gi leseren en oversikt av hva vi vet om det spesifikke forskningsspørsmålet per idag og hvilke spørsmål som står igjen (forskningshullene). 
+
 * **Oppsummer** tidligere forskning på temaet og "kunnskapshull"
 * **Oppsummer** hvordan prosjektet bidrar til å redusere disse "kunnskapshullene".
    * Spesifikke forskningsspørsmål
