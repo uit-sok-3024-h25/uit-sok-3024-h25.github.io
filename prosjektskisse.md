@@ -35,41 +35,30 @@ Introduksjonen skal gi leseren en oversikt av hva prosjektet handler om, hvorfor
 Denne seksjonen skal gi leseren forståelse for i hvilken bredere idé-tradisjon det overgripende forskningsproblemet/-spørsmålet hører hjemme, og hvordan den skal forstå forskningsproblemet ut ifra denne tradisjonen. 
 Seksjonen skal også gi leseren en oversikt av hva vi vet om det spesifikke forskningsspørsmålet per idag og hvilke spørsmål som står igjen (forskningshullene). 
 
-* **Oppsummer** tidligere forskning på temaet og "kunnskapshull"
-* **Oppsummer** hvordan prosjektet bidrar til å redusere disse "kunnskapshullene".
-   * Spesifikke forskningsspørsmål
-   * Data
-   * Statistisk metode      
+Seksjonen hjelper leseren å sette seg in i forskningsfeldtet og gir den mulighet å evaluere i hvilken grad prosjektet fører til (substansiell) ny kunnskap. Den vil i tillegg vise at forfatterne har tilstrekkelig kunnskap for å gjennomføre prosjektet. 
 
-## Litteraturoversikt
-Denne seksjonen skal gi leseren en oversikt over forskning på det mer overgripende temaet til prosjektet og detaljert innsikt i forskning som er nært relatert til forskningsspørsmålet som prosjektet har som mål å besvare. Dette vil hjelpe leseren å sette seg in i forskningsfeldtet og gi leseren mulighet å evaluere i hvilken grad prosjektet fører til (substansiell) ny kunnskap. Det vil i tillegg vise at forfatterne har tilstrekkelig kunnskap for å gjennomføre prosjektet. 
+### Teori
+Teori-seksjonen er "grundplaten" for hele forskningsprosjektet. Seksjonen skal vise hvordan forskningsproblemet og forskningsspørsmålene passer inn i den samfunnsøkonomiske idé-tradisjonen i stort, og gi en detaljert forståelse for spesifikke samfunnsøkonomiske teorier kan brukes for å forstå problemet. Teori-seksjonen viser at forfatterne har forståelse for fagområdet og bakgrunnen til problemet, og motiverer både hypoteser og spesifikasjonen av de modeller som blir evaluerte i den empiriske analysen. 
 
-### Teoretisk rammeverk 
+* Diskuter den teoribildning som forskningsspørsmålet hører hjemme i generelt (f.eks. arbeidsmarkedsøkonomi, økonomisk vekst, atferdsøkonomi). Oppsummerer viktige konklusjoner og/eller antakelser fra denne teoribildningen.
+* Diskuter teoretisk forskning som er tett knyttet opp imot forskningspørsmålene til prosjektet, dersom en slik teori eksisterer.
 
+#### Hypoteser
+* Beskriv hypotesene som vil bli testet i prosjektet. Hypotesene skal være basert på teorien som har blitt diskutert. Vær nøye med å forklare de samfunnsøkonomiske mekanismene.
+   
 ### Empirisk forskning
+Denne seksjonen skal vise hva empirisk forskning, som er relatert til forskningsspørsmålet, har funnet, og gi en idé om hvilke spørsmålstegn som gjenstår. 
 
 * Oppsummere tidligere forskning som er relatert til forskningspørsmålet i prosjektet, men som ikke er svært nært relatert.
-    * Husk å definer økonomiske begreper (kortfattet)
-* Gi en mer detaljert beskrivelse av tidligere forskning som er nært relatert (svært relevant) til forskningsspørsmålet i prosjektet.
-* Diskuter behovet for ny forskning på temaet: identifiser "hull" i forskningslitteraturen. Disse "hullene" kan være at tidligere forskning ikke har stilt viktige spørsmål, eller mangler i metoden som denne forskningen har brukt (datakilder eller statistisk metode).
+* Diskuter tidligere forskning som er nært relatert (svært relevant) til forskningsspørsmålet i prosjektet.
 
-## Teoretisk rammeverk
-Denne seksjonen har tre formål:
-1. Gi leseren en forståelse for hvordan det overgripende forskningsspørsmålet i prosjektet passer inn i samfunnsøkonomisk teori.
-2. Gi leseren en dybde-forståelse for de økonomiske mekanismene som ligger bak "problemet" og forskningsspørsmålet.
-3. Motivere hypoteser som blir testet i prosjektet
-
-Seksjonen kan inneholde analyse av en matematisk modell, men trenger ikke å gjøre det. 
-
-* Gi en kortfattet beskrivelse av den teoribildning som forskningsspørsmålet hører hjemme i generelt (f.eks. arbeidsmarkedsøkonomi, økonomisk vekst, atferdsøkonomi). Oppsummerer viktige konklusjoner og/eller antakelser fra denne teoribildningen.
-* Gi en detaljert beskrivelse av den teori som forskningsspørsmålet er tett knyttet opp imot, dersom en slik teori eksisterer.
-* Beskriv de teoretiske mekanismene som er relevante for hypotesene i prosjektet
-
-### Hypoteser
-* Beskriv hypotesene som testes i prosjektet
+## Prosjektets bidrag
+Seksjonen skal vise på hvilken måte og i hvilken grad prosjektet bidrar med ny kunnskap. 
+* Diskuter "hull" i forskningslitteraturen. Disse "hullene" kan være at tidligere forskning ikke har stilt de "riktige" spørsmålene, eller mangler i metoden (data eller modeller) som tidligere forskning har brukt.
+* Forklar hvordan prosjektet "fylder" disse hullene. 
   
 ## Metode
-Formålet med metode-seksjonen er å hjelpe leseren forstå hvordan forskningsspørsmålene blir besvarte i prosjektet. Leseren skal videre ha tilstrekkelig informasjon for å kunne evaluere i hvilken grad metoden *klarer* å teste hypotesene. 
+Formålet med metode-seksjonen er å hjelpe leseren forstå hvordan forskningsspørsmålene blir besvarte (og hypotesene blir testet) i prosjektet. Leseren skal videre ha tilstrekkelig informasjon for å kunne evaluere i hvilken grad metoden *klarer* å teste hypotesene. 
   
 ### Data
 * Beskriv datakilder som vil benyttes til å besvare forskningspørsmålet/teste hypotesene.
@@ -79,17 +68,22 @@ Formålet med metode-seksjonen er å hjelpe leseren forstå hvordan forskningssp
    * Avhengig variabel
    * Forklarende variabler knyttet direkte til hypotesene
    * Kontrollvariabler 
-
-#### Datainnsamlingsplan
-* Beskriv tidplanen for datainnsamling
   
 ### Økonometrisk strategi
 * Presenter en ligning som inkluderer de variabler som ble beskrevet i data-avsnittet. Husk å forklare alle deler i ligningen i teksten. 
 * Beskriv de hensyn som må tas for å kunne teste hypotesene og eventuelle utfordringer gitt det datamaterial som skal brukes i analysen.
 * Beskriv den økonometriske metode som blir brukt til estimere modellen. 
 * Beskriv hvordan dere (den økonometriske strategien som dere bruker) håndterer eventuelle utfordringer.
-  
 
+## Prosjektplan
+Denne seksjonen skal vise at prosjektet er gjennomførbart tidmessig, gitt de ressurser som er tilgjengelige. Seksjonen skal innholde en beskrivelse for hvordan dere planlegger å gjennomføre prosjektet.
+Beskriv tidplanen for:
+* Videre jobb med forskningsdesign (f.eks. design av spørreskjemaer)
+* Datainnsamling
+* Empirisk analyse
+* Skriving
+Her kan dere i tilegg beskrive "praktikaliteter", det vil si hvordan dere rent praktisk vil jobbe for å komme i mål med prosjektet.
+ 
 ### Risikoanalyse
 Formålet med denne seksjonen er å identifisere potensielle utfordringer for prosjektets gjennomføring, og tiltak for å redusere risikoen at disse utfordringene fører til at målene til prosjektet ikke oppnås.
 
