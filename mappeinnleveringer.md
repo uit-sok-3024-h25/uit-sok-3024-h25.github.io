@@ -57,19 +57,9 @@ Formålet med arbeidskrav 3 er at dere skal komme igang med prosjektskissen, og 
 
 Første utkast av prosjektskissen har i stort det samme inneholdet som siste utkast. Formålet til å levere inn et første utkast er at dere får en sjanse å utbedre inneholdet til siste utkast. **Vi anbefaler sterkt at dere starter å jobbe med arbeidskrav 3 i starten av semestret og jobber fortløpende med arbeidskravet gjennom semestret.** 
 
-Prosjektskissen skal inneholde:
-- Introduksjon
-  - Overgripende forskningsspørsmål/tema for oppgaven
-  - Motivering til hvorfor forskning på temaet er viktig fra et samfunnsøkonomisk perspektiv.
-  - Gjennomgang av relevant forskning på temaet
-  - Spesifikt forskningsspørsmål
-  - Beskrivelse av hvordan masteroppgaven bidrar til kunnskap på temaet
-- Teoretisk rammeverk: beskrivelse av samfunnsøkonomisk teori som kan brukes for å forstå temaet i oppgaven.
-- Metode
-  - Datagrunnlag: datakilder og relevante variabler
-  - Økonometrisk metode: spesifikasjon av modell som skal analyseres og metode for å estimere modellen
-- Risikoanalyse: beskrivelse av utfordringer (f.eks. tilgang til data) og hvordan disse utfordringene skal håndteres.
-- Referanseliste
+Dere finner en mal til hvordan prosjektskissen kan struktureres [her](https://uit-sok-3024-h25.github.io/prosjektskisse.html)
+
+Disposisjonen til prosjektskissen er ikke "skreven i stein". Dere kan velge å omstrukturere litt dersom dere ønsker dette. Alle deler i malen skal likevel være med i prosjektskissen. 
 
 **Arbeidskrav 3 SKAL inkludere en oppsummering av minst 3 vitenskapelige artikler (publiserte peer-reviewed i en vitenskapelig journal) som er relevante for temaet og forskningsspørsmålet i prosjektskissen.** Oppsummeringen skal være på  200 - 400 ord og beskrive hva forfatterne studerte, noe om utvalget og metode, og hva funnene i studien var. Studiene skal refereres ved bruk av [APA](https://uit.no/ub/skriveogreferere/referansestiler/apa7/samling?p_document_id=723998#collapseSub724326). 
 
@@ -102,17 +92,9 @@ For å få karakter på mappeoppgaven må alle dokumenter leveres inn.
 
 ### Oppgave-dokumentet sitt innhold
 
-- Introduksjon
-  - Overgripende forskningsspørsmål/tema for oppgaven
-  - Motivering til hvorfor forskning på temaet er viktig fra et samfunnsøkonomisk perspektiv.
-  - Gjennomgang av relevant forskning på temaet
-  - Spesifikt forskningsspørsmål
-  - Beskrivelse av hvordan masteroppgaven bidrar til kunnskap på temaet
-- Teoretisk rammeverk: beskrivelse av samfunnsøkonomisk teori som kan brukes for å forstå temaet i oppgaven.
-- Metode
-  - Datagrunnlag: datakilder og relevante variabler
-  - Økonometrisk metode: spesifikasjon av modell som skal analyseres og metode for å estimere modellen
-- Risikoanalyse: beskrivelse av utfordringer (f.eks. tilgang til data) og hvordan disse utfordringene skal håndteres.
+Dere finner en mal til hvordan prosjektskissen kan struktureres [her](https://uit-sok-3024-h25.github.io/prosjektskisse.html). 
+
+Disposisjonen til prosjektskissen er ikke "skreven i stein". Dere kan velge å omstrukturere litt dersom dere ønsker dette. Alle deler i malen skal likevel være med i prosjektskissen. 
 
 ### Kode-dokumentet sitt innhold
 * Kode brukt til å lage oppgaven, inklusive teoretisk og empirisk analyse. Koden skal klare å reprodusere innholdet i oppgaven.
