@@ -77,12 +77,13 @@ Formålet med metode-seksjonen er å hjelpe leseren forstå hvordan forskningssp
 
 ## Prosjektplan
 Denne seksjonen skal vise at prosjektet er gjennomførbart tidmessig, gitt de ressurser som er tilgjengelige. Seksjonen skal innholde en beskrivelse for hvordan dere planlegger å gjennomføre prosjektet.
+
+### Tidplan
 Beskriv tidplanen for:
 * Videre jobb med forskningsdesign (f.eks. design av spørreskjemaer)
 * Datainnsamling
 * Empirisk analyse
 * Skriving
-Her kan dere i tilegg beskrive "praktikaliteter", det vil si hvordan dere rent praktisk vil jobbe for å komme i mål med prosjektet.
  
 ### Risikoanalyse
 Formålet med denne seksjonen er å identifisere potensielle utfordringer for prosjektets gjennomføring, og tiltak for å redusere risikoen at disse utfordringene fører til at målene til prosjektet ikke oppnås.
@@ -92,4 +93,13 @@ Beskriv eventuelle problemer som kan oppstå, og hvordan dere planlegger å hån
 * Data: finns det noen utfordringer med å få tilgang til data, eller er usikkerhet knyttet til i hvilken grad data klarer å besvare forskningsspørsmålene?
 * Forskningsgruppen: finns det noen risiko at medlemmer i forskningsgruppen "forsvinner"? Hvordan ser arbeidsbyrden ut sammenlignet med forskningsgruppens kapasitet? finns det risiko at arbeidsfordelingen i gruppen blir skjev? Hvordan vil eventuelle konflikter i forskningsgruppen håndteres?
 
-Husk å beskriv hvordan dere håndterer utfordringene. 
+Husk å beskriv hvordan dere håndterer utfordringene. Her kan dere i tilegg beskrive "praktikaliteter", det vil si hvordan dere rent praktisk vil jobbe for å komme i mål med prosjektet.
+
+## Referanser
+Det finns mange verktøy for referansehåndtering, f.eks. [Mendeley](https://www.mendeley.com/), [Sotero](https://www.zotero.org/download/), og [Endnote](https://endnote.com/?srsltid=AfmBOorRrh7TUN8eU3Cz2bteRPGjSe0YKuG988eG3ZqLfhOgzJXs62gC).
+
+* Oppgi alle kilder som har blitt brukt i prosjektskissen
+
+## Appendiks
+Ikke alle prosjektskisser har appendiks, men i noen tilfeller kan det være fint å legge ved ting som gir leseren økt innsikt i prosjektet (f.eks spørreskjemaer). 
+
