@@ -77,9 +77,13 @@ Formålet med metode-seksjonen er å hjelpe leseren forstå hvordan forskningssp
 ## Prosjektplan
 Denne seksjonen skal vise at prosjektet er gjennomførbart tidmessig, gitt de ressurser som er tilgjengelige. Seksjonen skal innholde en beskrivelse for hvordan dere planlegger å gjennomføre prosjektet.
 
+### Etikk
+Beskriv eventuelle etiske utfordringer til prosjektet.
+
 ### Tidplan
 Beskriv tidplanen for:
 * Videre jobb med forskningsdesign (f.eks. design av spørreskjemaer)
+* Eventuell etikksøknad
 * Datainnsamling
 * Empirisk analyse
 * Skriving
