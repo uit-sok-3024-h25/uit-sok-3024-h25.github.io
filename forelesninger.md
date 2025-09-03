@@ -14,7 +14,7 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 
 #### Forelesningsnotater
 
-* [F3 - Forskningsprosessen](https://uit-sok-3024-H25.github.io/assets/F3_forskninsgprosessen.pdf)
+* [F3 - Forskningsprosessen](https://uit-sok-3024-H25.github.io/assets/F3_sok_3024_H25_forskninsgprosessen.pdf)
 
   
 ### F4 - Forskningsprosessen del 2
