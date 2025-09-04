@@ -6,10 +6,10 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 | Dato           | Tid            | Type            | Tema                              | Lærer |
 |----------------|----------------|-----------------|-----------------------------------|-------|
 |25. Aug.        |  14:15 - 16:00 |Forelesning     | Introduksjon til kurset           | AM |
-|01. Sept.        |  14:15 - 16:00 |Forelesning      | Introduksjon til faget | AM |
-|08. Sept.        |  08:15 - 10:00 |Forelesning        |Forskningsprosessen del 1 | AM |
-|11. Sept.        |  14:15 - 16:00 |Forelesning        |Forskningsprosessen del 2 | AM |
-|15. Sept.        |  14:15 - 16:00 |Forelesning        |Data| AM |
+|01. Sept.        |  14:15 - 16:00 |Forelesning      | Introduksjon til faget og forskningsprosessen | AM |
+|08. Sept.        |  08:15 - 10:00 |Forelesning        |Forts forskningsprosessen + Data | AM |
+|11. Sept.        |  14:15 - 16:00 |Forelesning        |Forts Data| AM |
+|15. Sept.        |  14:15 - 16:00 |Forelesning        |Struktur og innhold i en vitenskapelig artikkel| AM |
 |18. Sept.        |  12:15 - 14:00 |Seminar    | Forskningsspørsmål og hypoteser | AM |
 |22. Sept.        |  14:15 - 16:00 |Forelesning          |TBA | AM |
 |03. Okt.        |  10:15 - 12:00 |Seminar   | Hva karakteriserer en svært god masteroppgave?  | AM |
