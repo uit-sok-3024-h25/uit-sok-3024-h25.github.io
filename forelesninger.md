@@ -28,6 +28,12 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 * [I’ve Graded 1000 Dissertations: Here’s Everything I Know.  Mark Egan, associate professor in organizational psychology](https://www.youtube.com/watch?v=dv3Bo5jJhWM)
   
 ### Data
+#### Forelesningsnotater
+* [F4 - Data](https://uit-sok-3024-H25.github.io/assets/F5_sok_3024_Data.pdf)
+
+### Struktur og innhold til en vitenskapelig artikkel
+#### Forelesningsnotater
+* [F5 - Struktur og innhold til en vitenskapelig artikkel](FF6_sok_3024_H25_vitenskapeligartikkel.pdf)
 
 ### Bruk av kunstig intelligense i forskning
 
