@@ -33,7 +33,7 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 
 ### Struktur og innhold til en vitenskapelig artikkel
 #### Forelesningsnotater
-* [F5 - Struktur og innhold til en vitenskapelig artikkel](FF6_sok_3024_H25_vitenskapeligartikkel.pdf)
+* [F5 - Struktur og innhold til en vitenskapelig artikkel](https://uit-sok-3024-H25.github.io/assets/F6_sok_3024_H25_vitenskapeligartikkel.pdf)
 
 ### Bruk av kunstig intelligense i forskning
 
