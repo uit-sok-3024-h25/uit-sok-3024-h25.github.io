@@ -39,6 +39,7 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 * [Referanseverktøy: Mendelay](https://www.youtube.com/watch?v=IAh0ojWnsTs)
 * [Referansesystemer: Zotero](https://www.youtube.com/watch?v=gA3o2MlnPBQ)
 * [Bibliografier i R og Quarto](https://www.youtube.com/watch?v=w3X76e_tZr8)
+* [BibTex filer fra Zotero (bruk i Overleaf eller annet)](https://www.youtube.com/watch?v=CYbiDFqCdOs)
   
 ### Bruk av kunstig intelligense i forskning
 
