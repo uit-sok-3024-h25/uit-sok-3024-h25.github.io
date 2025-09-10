@@ -38,8 +38,11 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 #### Støtteressurser
 ##### Litteraturoversikt og referanseverktøy
 * [Workflow - Litteraturoversikt](https://www.youtube.com/watch?v=L0GNdm5xAFs)
-* [Referanseverktøy: Mendelay](https://www.youtube.com/watch?v=IAh0ojWnsTs)
-* [Referansesystemer: Zotero](https://www.youtube.com/watch?v=gA3o2MlnPBQ)
+* [Workflow - Hvordan lese mange artikler raskt](https://www.youtube.com/watch?v=EXALI6jFu6E)
+* [Referanseverktøy: Mendeley](https://www.youtube.com/watch?v=IAh0ojWnsTs)
+* [Referanseverktøy: Zotero](https://www.youtube.com/watch?v=gA3o2MlnPBQ)
+* [Organisering av artikler og notater (AI): Notion](https://www.youtube.com/watch?v=fYZGUjbsoA8)
+* [Research Rabbit (AI)](https://www.youtube.com/watch?v=phWqcGcxeE4)
 * [Bibliografier i R og Quarto](https://www.youtube.com/watch?v=w3X76e_tZr8)
 * [BibTex filer fra Zotero (bruk i Overleaf eller annet)](https://www.youtube.com/watch?v=CYbiDFqCdOs)
   
