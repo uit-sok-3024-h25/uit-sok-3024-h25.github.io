@@ -36,6 +36,8 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 * [F5 - Struktur og innhold til en vitenskapelig artikkel](https://uit-sok-3024-H25.github.io/assets/F6_sok_3024_H25_vitenskapeligartikkel.pdf)
 
 #### Støtteressurser
+##### Litteraturoversikt og referanseverktøy
+* [Workflow - Litteraturoversikt](https://www.youtube.com/watch?v=L0GNdm5xAFs)
 * [Referanseverktøy: Mendelay](https://www.youtube.com/watch?v=IAh0ojWnsTs)
 * [Referansesystemer: Zotero](https://www.youtube.com/watch?v=gA3o2MlnPBQ)
 * [Bibliografier i R og Quarto](https://www.youtube.com/watch?v=w3X76e_tZr8)
