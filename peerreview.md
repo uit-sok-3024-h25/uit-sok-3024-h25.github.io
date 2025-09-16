@@ -15,14 +15,16 @@ Under finner dere spørsmål som dere kan bruke til støtte da dere evaluerer de
 ## Oppsummering av oppgaven:
 1.	Hvilke(t) spørsmål prøver oppgaven å besvare?
 2.	Hvilken metode og data bruker forfatterne til å besvare spørsmålet?
-3.	Hva er de viktigste funnene i studien?
-4.	Hva er policy-implikasjonene fra funnene?
+3.	Hvordan mener forfatterne at studien bidrar til ny kunnskap?
+4.	Hva er de viktigste funnene i studien?
+5.	Hva er policy-implikasjonene fra funnene?
 
 ## Overgripende evaluering av oppgaven:
-1.	I hvilken grad er forskningsspørsmålet interessant og relevant fra et samfunnsøkonomisk perspektiv? Klarer forfatterne å motivere valget av forskningsspørsmål og hypoteser?
-2.	I hvilken grad klarer forfatterne å besvare forskningsspørsmålene/teste hypotesene? Er data og metode adekvat?
-3.	I hvilken grad resultatene, og tolkningen av disse, støtte i data?
-4.	Hvor enkelt vanskelig er det å lese og følge med i teksten i oppgaven? Er strukturen logisk? Hvordan er kvaliteten på språk og tekst?
+1.	I hvilken grad er forskningsspørsmålet interessant og relevant fra et samfunnsøkonomisk perspektiv? Klarer forfatterne å formidle dette i artikkelen (er motiveringen forankret i samfunnsøkonomisk teori)?
+2.	I hvilken grad viser forfatterne at de bidrar med ny kunnskap? Går de igjennom relevant litteratur, gjør rede for hva vi vet per idag om temaet og hvilke spørsmål som gjenstår? Forklarer de hvordan studien bidrar til økt kunnskap på en forståelig måte? 
+3.	I hvilken grad klarer forfatterne å besvare forskningsspørsmålene/teste hypotesene? Er data og metode adekvat?
+4.	I hvilken grad har resultatene, og tolkningen av disse, støtte i data?
+5.	Hvor enkelt vanskelig er det å lese og følge med i teksten i oppgaven? Er strukturen logisk? Hvordan er kvaliteten på språk og tekst?
 
 ## Detaljerte kommentarer:
 
