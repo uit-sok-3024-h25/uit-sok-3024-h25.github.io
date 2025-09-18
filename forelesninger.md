@@ -61,7 +61,8 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 * [How to create a better research poster - part 2](https://youtu.be/SYk29tnxASs)
 
 
-
+# Seminarer
+* [Semimar forskningsspørsmål](https://uit-sok-3024-H25.github.io/assets/Seminar_FSPML.pdf)
 
 
 
