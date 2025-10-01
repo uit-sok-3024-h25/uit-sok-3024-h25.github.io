@@ -63,7 +63,8 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 
 # Seminarer
 * [Seminar forskningsspørsmål](https://uit-sok-3024-H25.github.io/assets/Seminar_FSPML.pdf)
-* [Seminar Peer review](https://uit-sok-3024-H25.github.io/assets/S_sok_3024_Evalueringsskjema.pdf)
+* [Seminar Peer review - presentasjon](https://uit-sok-3024-H25.github.io/assets/Seminar – Peer review.pdf)
+* [Seminar Peer review - evalueringsskjema](https://uit-sok-3024-H25.github.io/assets/S_sok_3024_Evalueringsskjema.pdf)
 
 
 
