@@ -47,7 +47,8 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 * [BibTex filer fra Zotero (bruk i Overleaf eller annet)](https://www.youtube.com/watch?v=CYbiDFqCdOs)
   
 ### Bruk av kunstig intelligense i forskning
-
+#### Forelesningsnotater
+* [KI i forskning](https://uit-sok-3024-H25.github.io/assets/KI_i_forskning.pdf)
 ### Støtteressurser
 * [Don't use AI for research until you've watched this...NEW Rules. Andy Stapleton](https://www.youtube.com/watch?v=KC1KPvBm51E)
 * [ChatGPT 4o - Research Techniques Made Simple. Andy Stapleton](https://www.youtube.com/watch?v=-Th29mUlA2s)
