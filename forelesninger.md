@@ -48,7 +48,7 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
   
 ### Formidling 2 - Struktur og innhold til en vitenskapelig artikkel
 #### Forelesningsnotater
-* [F7 - Struktur og innhold til en vitenskapelig artikkel](https://uit-sok-3024-H25.github.io/assets/F8_struktur_artikkel.pdf)
+* [F7 - Struktur og innhold til en vitenskapelig artikkel](https://uit-sok-3024-H25.github.io/assets/F8_struktur_artikkel_2025.10.17.pdf)
 
 #### Støtteressurser
 ##### Litteraturoversikt og referanseverktøy
