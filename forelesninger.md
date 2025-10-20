@@ -62,7 +62,8 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 * [BibTex filer fra Zotero (bruk i Overleaf eller annet)](https://www.youtube.com/watch?v=CYbiDFqCdOs)
   
 
-
+### Foredrag fra Ishavskraft
+* [Presentasjon Ishavskraft ved Jula Wagner](https://uit-sok-3024-H25.github.io/assets/2025-10-20_Masteroppgaver_Handelshøyskolen.pdf)
 
 # Seminarer
 * [Seminar forskningsspørsmål](https://uit-sok-3024-H25.github.io/assets/Seminar_FSPML.pdf)
