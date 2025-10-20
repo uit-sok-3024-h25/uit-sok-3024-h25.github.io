@@ -31,9 +31,24 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 #### Forelesningsnotater
 * [F4 - Data](https://uit-sok-3024-H25.github.io/assets/F5_sok_3024_Data.pdf)
 
-### Struktur og innhold til en vitenskapelig artikkel
+### Bruk av kunstig intelligense i forskning
 #### Forelesningsnotater
-* [F5 - Struktur og innhold til en vitenskapelig artikkel](https://uit-sok-3024-H25.github.io/assets/F6_sok_3024_H25_vitenskapeligartikkel.pdf)
+* [F5 - KI i forskning](https://uit-sok-3024-H25.github.io/assets/KI_i_forskning.pdf)
+### Støtteressurser
+* [Don't use AI for research until you've watched this...NEW Rules. Andy Stapleton](https://www.youtube.com/watch?v=KC1KPvBm51E)
+* [ChatGPT 4o - Research Techniques Made Simple. Andy Stapleton](https://www.youtube.com/watch?v=-Th29mUlA2s)
+
+  
+### Formidling 1
+* [Science communications matter and how to make it better - TED talk (communicating research to the public)](https://www.youtube.com/watch?v=7Rt8sgt7gNE)
+* [How To Give The Perfect Presentation ( Academic Conferences & Keynotes).Prof. David Stuckler](https://www.youtube.com/watch?v=0Vjh5d5rez0)
+* [Want to Give a Great Presentation? Use Ugly Sketches. Martin J. Eppler - TED talk](https://www.youtube.com/watch?v=0Vjh5d5rez0)
+* [How to create a better research poster - part 1](https://youtu.be/1RwJbhkCA58)
+* [How to create a better research poster - part 2](https://youtu.be/SYk29tnxASs)
+  
+### Formidling 2 - Struktur og innhold til en vitenskapelig artikkel
+#### Forelesningsnotater
+* [F7 - Struktur og innhold til en vitenskapelig artikkel](https://uit-sok-3024-H25.github.io/assets/F8_struktur_artikkel.pdf)
 
 #### Støtteressurser
 ##### Litteraturoversikt og referanseverktøy
@@ -46,20 +61,7 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 * [Bibliografier i R og Quarto](https://www.youtube.com/watch?v=w3X76e_tZr8)
 * [BibTex filer fra Zotero (bruk i Overleaf eller annet)](https://www.youtube.com/watch?v=CYbiDFqCdOs)
   
-### Bruk av kunstig intelligense i forskning
-#### Forelesningsnotater
-* [KI i forskning](https://uit-sok-3024-H25.github.io/assets/KI_i_forskning.pdf)
-### Støtteressurser
-* [Don't use AI for research until you've watched this...NEW Rules. Andy Stapleton](https://www.youtube.com/watch?v=KC1KPvBm51E)
-* [ChatGPT 4o - Research Techniques Made Simple. Andy Stapleton](https://www.youtube.com/watch?v=-Th29mUlA2s)
 
-  
-### Formidling
-* [Science communications matter and how to make it better - TED talk (communicating research to the public)](https://www.youtube.com/watch?v=7Rt8sgt7gNE)
-* [How To Give The Perfect Presentation ( Academic Conferences & Keynotes).Prof. David Stuckler](https://www.youtube.com/watch?v=0Vjh5d5rez0)
-* [Want to Give a Great Presentation? Use Ugly Sketches. Martin J. Eppler - TED talk](https://www.youtube.com/watch?v=0Vjh5d5rez0)
-* [How to create a better research poster - part 1](https://youtu.be/1RwJbhkCA58)
-* [How to create a better research poster - part 2](https://youtu.be/SYk29tnxASs)
 
 
 # Seminarer
